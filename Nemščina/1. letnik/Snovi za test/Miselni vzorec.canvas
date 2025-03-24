@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fac7c2334eebcdc5","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Im Klassenzimmer - množine.md","x":-250,"y":20,"width":1020,"height":500,"color":"#ffeb8a"},
+		{"id":"42fd71ebbea61d4f","type":"text","text":"# **IM KLASSENZIMMER**\n","x":260,"y":740,"width":420,"height":60,"color":"#f9e82f"},
+		{"id":"6540c4aced672ffa","type":"text","text":"# **GLAGOLI**","x":515,"y":895,"width":235,"height":60,"color":"1"},
+		{"id":"3f79aded3556daa5","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Im Klassenzimmer - predlogi.md","x":-460,"y":665,"width":520,"height":520,"color":"#ffeb9e"},
+		{"id":"a47c0ceb580c7579","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Modal Verben.md","x":100,"y":1090,"width":740,"height":360,"color":"#ff5c5c"},
+		{"id":"d23422023095cf6a","type":"text","text":"# **ESSEN**","x":750,"y":665,"width":181,"height":60,"color":"4"},
+		{"id":"78fbcaa1fde57dba","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Verben mit Vokalwechsel.md","x":1261,"y":1080,"width":810,"height":460,"color":"#ff5c5c"},
+		{"id":"27eb86239fc3c79a","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Essen - predlogi.md","x":931,"y":-20,"width":465,"height":580,"color":"4"},
+		{"id":"1beadbee0562d780","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snovi za test/Essen - množine.md","x":1000,"y":725,"width":1029,"height":315,"color":"4"},
+		{"id":"09e4437eb250d9f6","type":"file","file":"01 - Šola/05 - Nemščina/1. letnik/Snov za test.md","x":1560,"y":-75,"width":410,"height":770,"color":"#70fdff"}
+	],
+	"edges":[
+		{"id":"481f1c8eb8a1b8e6","fromNode":"6540c4aced672ffa","fromSide":"right","toNode":"78fbcaa1fde57dba","toSide":"left","color":"1"},
+		{"id":"6f9b9863ce1c6051","fromNode":"42fd71ebbea61d4f","fromSide":"left","toNode":"3f79aded3556daa5","toSide":"right","color":"#f7d118"},
+		{"id":"c700ae48af711e60","fromNode":"42fd71ebbea61d4f","fromSide":"top","toNode":"fac7c2334eebcdc5","toSide":"bottom","color":"#f7d118"},
+		{"id":"b84761fbdefd0cc7","fromNode":"6540c4aced672ffa","fromSide":"bottom","toNode":"a47c0ceb580c7579","toSide":"top","color":"1"},
+		{"id":"53686080af37096f","fromNode":"d23422023095cf6a","fromSide":"top","toNode":"27eb86239fc3c79a","toSide":"left","color":"4"},
+		{"id":"7f25c5ee3dbeb1ff","fromNode":"d23422023095cf6a","fromSide":"bottom","toNode":"1beadbee0562d780","toSide":"left","color":"4"}
+	]
+}
