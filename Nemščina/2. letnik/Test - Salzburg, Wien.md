@@ -232,3 +232,46 @@ verlieren -> verloren
 | wir **waren**       | wir **hatten**      |
 | ihr **wart**        | ihr **hattet**      |
 | sie/Sie **waren**   | sie/Sie **hatten**  |
+
+
+| Infinitiv | präteritum | perfekt             | prevod         |
+| --------- | ---------- | ------------------- | -------------- |
+| beginnen  | begann     | hat begonnen        | začeti         |
+| bleiben   | blieb      | ist geblieben       | ostati         |
+| denken    | dachte     | hat gedacht         | misliti        |
+| essen     | aß         | hat gegessen        | jesti          |
+| fahren    | fuhr       | hat/ist gefahren    | peljati/voziti |
+| finden    | fand       | hat gefunden        | najti          |
+| fliegen   | flog       | hat/ist geflogen    | leteti         |
+| geben     | gab        | hat gegeben         | dati           |
+| gehen     | ging       | ist gegangen        | iti            |
+| haben     | hatte      | hat gehabt          | imeti          |
+| helfen    | half       | hat geholfen        | pomagati       |
+| kommen    | kam        | ist gekommen        | priti          |
+| lesen     | las        | hat gelesen         | brati          |
+| nehmen    | nahm       | hat genommen        | vzeti          |
+| rufen     | rief       | hat gerufen         | klicati        |
+| schlafen  | schlief    | hat geschlafen      | spati          |
+| schreiben | schrieb    | hat geschrieben     | pisati         |
+| schwimmen | schwamm    | hat/ist geschwommen | plavati        |
+| sehen     | sah        | hat gesehen         | videti         |
+| sein      | war        | ist gewesen         | biti           |
+| singen    | sang       | hat gesungen        | peti           |
+| sprechen  | sprach     | hat gesprochen      | govoriti       |
+| stehen    | stand      | hat gestanden       | stati          |
+| trinken   | trank      | hat getrunken       | piti           |
+| tun       | tat        | hat getan           | storiti        |
+| wissen    | wusste     | hat gewusst         | vedeti         |
+| backen    | buk        | hat gebacken        | peči           |
+| braten    | briet      | hat gebraten        | pražiti/peči   |
+| fallen    | fiel       | ist gefallen        | pasti          |
+| gefallen  | gefiel     | hat gefallen        | ugajati        |
+| laufen    | lief       | ist gelaufen        | teči           |
+| rennen    | rannte     | ist gerannt         | teči/dirjati   |
+| schließen | schloss    | hat geschlossen     | zapreti        |
+| sterben   | starb      | ist gestorben       | umreti         |
+| vergessen | vergaß     | hat vergessen       | pozabiti       |
+| verlieren | verlor     | hat verloren        | izgubiti       |
+| genießen  | genoss     | hat genossen        | uživati        |
+| geschehen | geschah    | ist geschehen       | zgoditi se     |
+
