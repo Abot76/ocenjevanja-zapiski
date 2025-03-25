@@ -177,14 +177,129 @@ ___
 ## Znamenite točke trikotnika
 1. Opišite konstrukcijo simetrale daljice in simetrale kota.
 	- Simetrala daljice: premica, ki daljico razpolavlja pravokotno
-	- Simetrala kota: premica, ki kot razpolavlja
+	- Simetrala kota: premica, ki notranji kot razpolavlja
 2. Kako poiščemo težišče trikotnika, središče trikotniku očrtane krožnice, središče
    trikotniku včrtane krožnice in višinsko točko?
 	1. Težišče: presečišče težiščnic (daljic iz oglišč do razpolovišč nasprotnih stranic)
 	2. Središče očrtane krožnice: presečišče simetral stranic
-	3. Središče včrtane krožnice: presečišče simetral kotov
+	3. Središče včrtane krožnice: presečišče simetral notranjih kotov
 	4. Višinska točka: presečišče višin (daljic iz oglišč pravokotno na nasprotne stranice)
 ___
+## Skladnost likov
+1. Definirajte podobnost likov.
+	 Dva lika sta skladna, če sta enake oblike in velikosti. To pomeni, da imata enake stranice in enake kote ter ju lahko s premikom, vrtenjem ali zrcaljenjem popolnoma prekrijemo.
+2. Povejte štiri izreke o skladnosti trikotnikov.
+	 Štirje izreki o skladnosti trikotnikov so
+	- S-K-S (stranica-kot-stranica): Trikotnika sta skladna, če se ujemata v dveh stranicah in kotu med njima
+	- K-S-K (kot-stranica-kot): Trikotnika sta skladna, če se ujemata v eni stranici in obeh priležnih kotih
+	- S-S-S (stranica-stranica-stranica): Trikotnika sta skladna, če se ujemata v vseh treh stranicah
+	- P-S-K (pravokotna trikotnika sta skladna, če se ujemata v preponi in še eni stranici ali v preponi in enem ostrem kotu)
+3. V paralelogramu narišemo obe diagonali. Koliko parov skladnih trikotnikov dobimo?
+	Ko v paralelogramu narišemo obe diagonali, dobimo 2 para skladnih trikotnikov. To se zgodi, ker:
+	1. Diagonali se sekata v točki, ki razpolovi obe diagonali
+	2. Nasprotne stranice paralelograma so vzporedne in enako dolge
+	3. Prvi par skladnih trikotnikov dobimo na nasprotnih koncih ene diagonale
+	4. Drugi par skladnih trikotnikov dobimo na nasprotnih koncih druge diagonale
+___
+## Podobnost likov
+1. Definirajte podobnost likov.
+	Dva lika sta podobna, če imata enako obliko, a sta lahko različnih velikosti. To pomeni, da imata enake kote, stranice pa so v enakem razmerju (sorazmerne).
+2. Povejte tri izreke o podobnosti trikotnikov.
+	 Trije izreki o podobnosti trikotnikov so:
+	- K-K (kot-kot): Trikotnika sta podobna, če imata dva kota enaka (tretji kot je potem avtomatsko enak)
+	- S-K-S (stranica-kot-stranica): Trikotnika sta podobna, če imata enak kot in sta razmerji stranic ob tem kotu enaki
+	- S-S-S (stranica-stranica-stranica): Trikotnika sta podobna, če so razmerja vseh istoležnih stranic enaka
+3. Trikotnika ABC in A'B'C ' sta podobna. Stranica AB prvega trikotnika meri c,
+stranica A'B' drugega trikotnika pa meri k c. Kolikšna sta obseg in ploščina trikotnika
+A'B'C ', če je o obseg trikotnika ABC in S ploščina trikotnika ABC ?
+	Ker sta trikotnika ABCABC in A′B′C′A'B'C' podobna, velja, da so vsi njihovi sorazmerni elementi v enakem razmerju k. To pomeni:
+	$o′=k⋅o$  
+	kjer je o′ obseg trikotnika A′B′C', o pa obseg trikotnika ABC
+	Ploščini podobnih trikotnikov sta v razmerju kvadrata faktorja podobnosti $k^2$. Torej velja:
+	$S′=k^2⋅S$
+	kjer je S′ ploščina trikotnika A′B′C′, S pa ploščina trikotnika ABC
+	Tako dobimo:
+		$o′=k⋅o$
+		$S′=k2⋅S$
+
+___
+## Premice in krožnice
+1. V kakšni medsebojni legi sta lahko premica in krožnica, ki ležita v isti ravnini?
+	 Medsebojna lega premice in krožnice:
+	- Sekanta: premica seka krožnico v dveh točkah
+	- Tangenta: premica se dotika krožnice v natanko eni točki
+	- Mimobežnica: premica ne seka krožnice (nima skupnih točk)
+2. Kako imenujemo daljico, ki povezuje dve točki krožnice?
+	Daljica, ki povezuje dve točki krožnice, se imenuje tetiva.
+3. Opišite konstrukcijo tangente na krožnico v dani točki krožnice.
+	Konstrukcija tangente na krožnico v dani točki:
+	- Narišemo polmer do dane točke na krožnici
+	- V tej točki narišemo pravokotnico na polmer
+	- Ta pravokotnica je tangenta na krožnico
+___
+## Središčni in obodni kot
+1. Definirajte središčni in obodni kot v krogu.
+	Definicije:
+	- Središčni kot je kot s temenom v središču krožnice
+	- Obodni kot je kot s temenom na krožnici in krakoma skozi dve drugi točki krožnice
+2. V kakšni zvezi sta, če ležita nad istim lokom kroga?
+	Zveza med središčnim in obodnim kotom nad istim lokom: Središčni kot je dvakrat večji od obodnega kota nad istim lokom.
+3. Povejte in dokažite Talesov izrek o kotu v polkrogu.
+	Talesov izrek o kotu v polkrogu: Obodni kot nad premerom krožnice je pravi kot (90°). Dokaz:
+	- Središčni kot nad premerom je 180°
+	- Obodni kot je polovica središčnega kota
+	- Torej je obodni kot 90°
+4. V enakostraničnem trikotniku ABC je S središče trikotniku očrtane krožnice. Koliko
+meri kot  ∠ASB?
+	V enakostraničnem trikotniku ABC, kjer je S središče očrtane krožnice, kot ∠ASB meri 120°. To je zato, ker:
+	- V enakostraničnem trikotniku so vsi koti 60°
+	- Središče očrtane krožnice razdeli trikotnik na tri enake dele
+	- Zato je kot ∠ASB enak 120° (dvakrat večji od kota v trikotniku)
+___
+## Paralelogram
+1. Definirajte paralelogram.
+	Paralelogram je štirikotnik, ki ima dva para vzporednih stranic.
+2. Navedite lastnosti kotov in stranic paralelograma.
+	Lastnosti kotov in stranic paralelograma:
+	- Nasprotni stranici sta vzporedni in enako dolgi
+	- Nasprotna kota sta skladna
+	- Vsota sosednjih kotov je 180°
+	- Vsota vseh notranjih kotov je 360°
+3. Navedite posebne vrste paralelogramov in opišite njihove lastnosti.
+	Posebne vrste paralelogramov:
+	- Pravokotnik: paralelogram s štirimi pravimi koti
+	- Romb: paralelogram z vsemi stranicami enake dolžine
+	- Kvadrat: paralelogram s štirimi pravimi koti in vsemi stranicami enake dolžine
+4. Kaj velja za diagonali paralelograma?
+	Za diagonali paralelograma velja:
+	- Sekata se v razmerju 1:1 (razpolovita se)
+	- Razdelita paralelogram na dva para skladnih trikotnikov
+___
+## Trapez
+1. Definirajte trapez.
+	Trapez je štirikotnik, ki ima natanko en par vzporednih stranic (imenujemo ju osnovnici).
+2. Navedite lastnosti kotov trapeza.
+	Lastnosti kotov trapeza:
+	- Vsota notranjih kotov je 360°
+	- Kota ob istem kraku sta suplementarna (njihova vsota je 180°)
+3. Kaj je srednjica trapeza in katere lastnosti ima?
+	Srednjica trapeza:
+	Je daljica, ki povezuje razpolovišči krakov
+	Vzporedna je osnovnicama
+	Njena dolžina je aritmetična sredina dolžin osnovnic ($\frac {a+c}{2})$, kjer sta $a$ in $c$ dolžini osnovnic).
+4. Kdaj je trapez enakokrak? Kaj velja za kote in diagonali v enakokrakem trapezu?
+	 Enakokrak trapez:
+	- Kraka sta enako dolga
+	- Kota ob isti osnovnici sta skladna
+	- Diagonali sta enako dolgi
+5. Opišite, kako v enakokrakem trapezu z znanimi dolžinami stranic izračunamo višino
+trapeza.
+	$d = \frac{a-c}{2}$
+	To je kateta pravokotnega trikotnika.
+	Druga kateta je višina $v$.
+	Hipotenuza je krak $b$.
+	$v = \sqrt{b^2 - d^2}$
+	Rešitev: $v = \sqrt{b^2 - (\frac{a-c}{2})^2}$
 ## Sinusni in kosinusni izrek
 1. Povejte kosinusni izrek. Na primeru opišite njegovo uporabo.
 	Kosinusni izrek: $c² = a² + b² - 2ab·cos(γ)$ Uporaba: ko poznamo vse stranice ali dve stranici in kot med njima.
@@ -219,7 +334,7 @@ ___
 	Funkcija je omejena, če obstajata števili m in M, da za vsak x iz definicijskega območja velja: $m ≤ f(x) ≤ M$.
 4. Narišite graf ali povejte predpis padajoče funkcije, ki je navzgor omejena, navzdol pa
    neomejena.
-	$f(x)=-{e}^{{x}}$
+	$f(e)=-{e}^{{x}}$
 ___
 ## Lastnosti funkcij
 1. Kdaj je funkcija $f$ liha in kdaj soda?
