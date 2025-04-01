@@ -166,10 +166,40 @@ OBTOČILA
 	- BELE(levkociti) - vloga pri obrambi telesa, lahko prehajajo skozi žilno steno
 	- KRVNE PLOŠČICE(trombociti) - omogočajo strjevanje krvi
 36. Rhesus ali Rh faktor.
+	- je antigen na rdečih krvničkah prisoten pri 85% ljudi(so Rh pozitivni, ostali so Rh negativni)
+	- pomemben pri transfuziji in nosečnosti
 37. Opiši arterije in vene.
+	- ARTERIJE
+		- žile ki vodijo kri iz srca proti obrobju telesa
+		- imajo debelo močno elastično steno zaradi visokega tlaka
+		- se vejijo na manjše žile -> na koncu kapilare(zelo tanke in prepustne)
+	- VENE
+		- venske kapilare se združujejo v venule te pa v vene, ki vodijo kri nazaj v srce
+		- imajo tanjšo in manj elastično steno zaradi nižjega tlaka
+		- imajo zaklopke da kri ne steče nazaj
 38. Opiši zgradbo in delovanje srca.
+	- Srce poganja kri po žilah
+	- leži pod prsnico
+	- ovija ga dvojna mrena(osrčnik)
+	- razdeljen je na levo in desno polovico, vsaka stran ima preddvor in prekat, med njima je zaklopka
+	- kri brez kisika pride v desni preddvor, nato gre v desni prekat, v pljuča(po veni) po kisik, nazaj po arteriji v levi preddvor, nato v levi prekat in nazaj v glavno arterijo
+	- srce oskrbujejo venčne žile
 39. Opiši veliki ali telesni in mali ali pljučni krvni obtok.
+	- VELIKI
+		- oskrbuje telesne celice s kisikom in hranili, odnaša produkte presnove
+		- srce -> aorta -> arterije -> arteriole -> kapilarni splet
+	- MALI
+		- kri iz srca -> pljuča -> srce
+		- kapilare obdajajo pljučne mehurčke - tukaj poteka izmenjava plinov
 40. Opiši limfni sistem (funkcija, kaj ga sestavlja).
+	- sestavljajo ga limfne žile, bezgavke in vranica
+	- zbira in vrača limfne tekočine, ima tudi obrambni pomen
 41. Opiši hemofilijo in trombozo.
+	- **Hemofilija:** Motnja strjevanja krvi. 
+	- **Tromboza:** Nastanek krvnih strdkov.
 42. Opiši arteriosklerozo in krčne žile.
+	- **Arterioskleroza:** Zoženje arterij zaradi nalaganja maščob. 
+	- **Krčne žile:** Razširjene vene zaradi slabega pretoka krvi.
 43. Opiši angino pectoris in srčni infarkt.
+	- **Angina pectoris:** Bolečina v prsih zaradi slabe prekrvavitve srca. 
+	- **Srčni infarkt:** Zapora srčne arterije povzroči odmrtje srčne mišice.
