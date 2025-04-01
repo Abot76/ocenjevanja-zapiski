@@ -22,10 +22,27 @@
 	- leži v hrbteničnem kanalu, po sredini poteka centralni kanal
 	- gradita jo sivina(telesa živčnih celic z dendriti) in belina(mielinska čutna in gibalna živčna vlakna)
 6. Kaj je refleks, opiši enostavni refleks.
+	- Je hiter odziv živčevja na zunanje in notranje dražljaje
+	- ENOSTAVNI REFLEKS: ko udarimo na mišično kito vzdražimo čutilne celice v mišici, mišica se refleksno skrči
 7. Opiši možgane in naštej njegove dele?
+	- so glavni del osrednjega živčevja
+	- podatke skladiščijo, obdelujejo, primerjajo med seboj in se hitro odzovejo na nove okoliščine
+	- DELI: veliki, srednji, mali, medmožgani, podaljšana hrbtenjača
 8. Podaljšana hrbtenjača.
+	- Po zgradbi je podobna hrbtenjači
+	- v njej se nahajajo pomembna refleksna središča
+	- če se poškoduje dihalno središče takoj preneha dihanje -> nastopi trenutna smrt
+	- iz nje izhaja 12 parov možganskih živcev
 9. Mali možgani.
+	- ležijo na zadnji strani možganske votline
+	- so najvažnejše gibalno središče, skrbijo za držo, orientacijo in ravnotežje
+	- če zbolijo postanejo mišični gibi nenatančni, pojavi se vrtoglavica, hoja postane nezanesljiva kot v pijanosti
 10. Veliki možgani.
+	- Zavzemajo večji del lobanje
+	- razdeljeni so na 2 dela - levo in desno hemisfero
+	- sestavljeni si iz sivine in beline
+		- Sivina - možganska skorja, sestavljena iz teles živčnih celic
+		- belina - notranjost možganov, sestavljena iz živčnih vlaken
 11. Srednji možgani in medmožgani.
 12. Možgansko deblo.
 13. Vegetativno živčevje.
