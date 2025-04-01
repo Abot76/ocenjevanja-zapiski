@@ -107,25 +107,53 @@
 	- DALJNOVIDNOST - vidimo samo oddaljene predmete(prekratko očesno zrklo, slika nastaja za mrežnico) -> prirojena
 	- KRATKOVIDNOST - vidimo samo bližnje predmete(podaljšano očesno zrklo, slika nastaja pred mrežnico) -> prirojena ali pridobljena
 25. Opiši kaj je zelena mrena in kaj snežna slepota?
-	- posledica povečanega očesnega tlaka
-	- povzročajo jo zdravila, kajenje, lahko tudi dedna
-	- okvari se vidni živec
+	- ZELENA MRENA
+		- posledica povečanega očesnega tlaka
+		- povzročajo jo zdravila, kajenje, lahko tudi dedna
+		- okvari se vidni živec
+	- SNEŽNA SLEPOTA
+		- UV žarki povzročijo vnetje roženice
+		- mine v 36 do 72 urah, ni trajnih posledic
 26. Opiši kaj je barvna slepota in kaj siva mrena?
+	- BARVNA SLEPOTA
+		- dedna motnja ki povzroči neobčutljivost na določene barve(rdeča ali zelena)
+		- ponavadi pri moških
+	- SIVA MRENA
+		- leča postane motnja zaradi staranja ali drugih dejavnikov
+		- spremeni se struktura beljakovin v leči
 27. Jezik kot čutilo za okus.
+	- čutnice na jeziku tvorijo okušalne popke, več popkov sestavlja brbončico
+	- receptorji za različne okuse so koncentrirani na različnih delih jezika
+	- okušamo le snovi ki se raztapljajo v slini, slina stalno spira brbončice
 28. Čutilo za voh.
+	- pretin deli nosno votlino na 2 dela, v vsaki votlini so 3 nosne školjke, prekriva jo sluznica z žlezami
+	- v nosu se zrak prečisti, navlaži, pregreje
+	- v vohalni sluznici so vohalne čutnice in čutilni izrastki
+	- raztopljene snovi -> dražijo vohalne čutnice -> vzburjenje po vohalne živcu -> v vohalno središče v možganih
 29. Čutila v koži.
+	- Z njimi zaznavamo spremembe v okolju
+	- so čutila za tip, toploto, mraz in bolečino
+	- TIP - čutnice so v različnih delih kože, največ na koncu prstov
+	- BOLEČINA - so prosti čutni živčni končiči, občutimo ko doseže bolečinski prag
+	- TOPLOTA - ležijo globoko v usnjici, prosti živčni končiči, najmanj na koncu prstov
+	- MRAZ - tik pod površino kože, najmanj na podplatih, največ na trupu
 30. Uho – čutilo za sluh in ravnotežje.
+	- čutilo leži v notranjem ušesu
+	- zvočni valovi prehajajo skozi zunanje, nato v srednje uho
+	- ZUNANJE UHO - uhelj(iz elastičnega hrustanca), sluhovod(2-3cm dolga cevka, bobnič
+	- NOTRANJE UHO - ima 3 polkrožne kanale in kožnati polž, ki je slušni organ, na membrani polža so slušne celice z dlačicami
 31. Kako zaznavamo zvok?
-32. Ravnotežni organ.
+32. 
+33. Ravnotežni organ.
 OBTOČILA
-33. Kakšna je sestava in funkcija krvi?
-34. Krvne skupine.
-35. Naštej in opiši funkcijo krvnih celic
-36. Rhesus ali Rh faktor.
-37. Opiši arterije in vene.
-38. Opiši zgradbo in delovanje srca.
-39. Opiši veliki ali telesni in mali ali pljučni krvni obtok.
-40. Opiši limfni sistem (funkcija, kaj ga sestavlja).
-41. Opiši hemofilijo in trombozo.
-42. Opiši arteriosklerozo in krčne žile.
-43. Opiši angino pectoris in srčni infarkt.
+34. Kakšna je sestava in funkcija krvi?
+35. Krvne skupine.
+36. Naštej in opiši funkcijo krvnih celic
+37. Rhesus ali Rh faktor.
+38. Opiši arterije in vene.
+39. Opiši zgradbo in delovanje srca.
+40. Opiši veliki ali telesni in mali ali pljučni krvni obtok.
+41. Opiši limfni sistem (funkcija, kaj ga sestavlja).
+42. Opiši hemofilijo in trombozo.
+43. Opiši arteriosklerozo in krčne žile.
+44. Opiši angino pectoris in srčni infarkt.
