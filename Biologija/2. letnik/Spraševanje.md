@@ -80,7 +80,10 @@
 	- POMOŽNI DELI očesa so: veke s trepalnicam in obrvi(varujejo oko)
 	- solzne žleze izločajo solze, ki vljažijo roženico in odplakujejo delce prahu
 18. Zgradba očesa (očesno zrklo, mrežnica).
-	- očesno zrklo ima: ciliarnik(mišice za lečo), očesno tekočino, veznico, roženico, zenico, šarenico, lečna vlakna, leča, beločnica, žilnica, mrežnica, steklovina, žile, vidni živec, slepa in rumena pega
+	- OČESNO ZRKLO - kroglaste oblike, od spredaj izbočeno(iz beločnice, žilnice in mrežnice)
+	- MREŽNICA - na njej se nahajata 2 vrsti čutilnih celic
+		- PALIČICE - občutljive na svetlobo - vidijo samo črno-belo
+		- ČEPNICE - občutljive na barve - vidijo samo barve(največ v rumeni pegi)
 19. Opiši funkcijo beločnice, mrežnice in žilnice.
 	- BELOČNICA - trdna kolagenska ovojnica, ki ščiti očesno jabolko in mu dajo obliko
 	- MREŽNICA - sestavljena iz paličic in čepkov, ter zaporedja živčnih celic ki ojačajo sliko ter jo pošljejo v vidni živec
@@ -90,10 +93,23 @@
 	- ROŽENICA - prozorna in prepušča svetlobo v oko
 	- ZENICA - je okrogla odprtina v šarenici
 21. Opiši funkcijo steklovine, leče in šarenice.
+	- STEKLOVINA - vzdržuje obliko očesnega jabolka, nosi lečo in pritiska mrežnico ob žilnico, med lečo in steklovino se lomijo svetlobni žarki
+	- LEČA - skozi njo vstopa svetloba v steklovino, svetlobo lomi da zagotovi ostro sliko na režnici
+	- ŠARENICA - nadzoruje vstop svetlobe skozi zenico, spreminja premer zenice da zagotovi optimalno svetlost slike
 22. Kaj je rumena in kaj slepa pega?
+	- RUMENA - področje kjer so le čepki in je slika najostrejša
+	- SLEPA - predel kjer ni čutnic zato tam ni slike(na tistem mestu izhajajo živci v vidni živec)
 23. Kako nastane slika?
+	- Svetloba pada na mrežnico skozi roženico, zenico, lečo in steklovino - na mrežnici nastane obrnjena pomanjšana slika
+	- iz mrežnice poteka vzburjenje v vidno središče v možganih
+	- vsako oko vidi samo del okolice
 24. Opiši daljnovidnost in kratkovidnost.
+	- DALJNOVIDNOST - vidimo samo oddaljene predmete(prekratko očesno zrklo, slika nastaja za mrežnico) -> prirojena
+	- KRATKOVIDNOST - vidimo samo bližnje predmete(podaljšano očesno zrklo, slika nastaja pred mrežnico) -> prirojena ali pridobljena
 25. Opiši kaj je zelena mrena in kaj snežna slepota?
+	- posledica povečanega očesnega tlaka
+	- povzročajo jo zdravila, kajenje, lahko tudi dedna
+	- okvari se vidni živec
 26. Opiši kaj je barvna slepota in kaj siva mrena?
 27. Jezik kot čutilo za okus.
 28. Čutilo za voh.
