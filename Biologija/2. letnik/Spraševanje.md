@@ -143,17 +143,33 @@
 	- ZUNANJE UHO - uhelj(iz elastičnega hrustanca), sluhovod(2-3cm dolga cevka, bobnič
 	- NOTRANJE UHO - ima 3 polkrožne kanale in kožnati polž, ki je slušni organ, na membrani polža so slušne celice z dlačicami
 31. Kako zaznavamo zvok?
-32. 
-33. Ravnotežni organ.
+	- zvočno valovanje potuje po sluhovodu do bobniča, nato se prenese v srednje uho(po slušnih koščicah) in potuje po tekočini v koščenem polžu
+	- zatrese se membrana na kateri so čutne celice(Cortijev organ), slušni živec prenese impulz do slušnega središča v možganih
+32. Ravnotežni organ.
+	- nahaja se v polkrožnih kanalih v notranjem ušesu
+	- obvešča nas o položaju in gibanju glave
+	- kanalih so čutilne celice, ko se glave premika, vzvalovi tekočina v polkrožnem kanalu in vzdraži celice, vzburjenje po živcu poteka v možgane
 OBTOČILA
-34. Kakšna je sestava in funkcija krvi?
-35. Krvne skupine.
-36. Naštej in opiši funkcijo krvnih celic
-37. Rhesus ali Rh faktor.
-38. Opiši arterije in vene.
-39. Opiši zgradbo in delovanje srca.
-40. Opiši veliki ali telesni in mali ali pljučni krvni obtok.
-41. Opiši limfni sistem (funkcija, kaj ga sestavlja).
-42. Opiši hemofilijo in trombozo.
-43. Opiši arteriosklerozo in krčne žile.
-44. Opiši angino pectoris in srčni infarkt.
+33. Kakšna je sestava in funkcija krvi?
+	- kri je transportna tekočina ki 
+		- oskrbuje celice(kisik, hrana, hormoni)
+		- odstranjuje odpadne produkte
+		- ima vlogo pri obrambi celjenju ran in uravnavanju temperature
+	- sestavlja jo:
+		- krvna plazma - prozorna tekočina iz vode, sladkorja, maščob...
+		- krvne celice
+34. Krvne skupine.
+	- ločimo jih po molekuli beljakovin, ki so na površju eritrocitov in po protitelesih v plazmi
+	- nekatere krvne beljakovine so antigeni -> v drugem organizmu izzovejo nastanek protiteles
+35. Naštej in opiši funkcijo krvnih celic
+	- RDEČE(eritrociti) - prenašajo dihalne pline
+	- BELE(levkociti) - vloga pri obrambi telesa, lahko prehajajo skozi žilno steno
+	- KRVNE PLOŠČICE(trombociti) - omogočajo strjevanje krvi
+36. Rhesus ali Rh faktor.
+37. Opiši arterije in vene.
+38. Opiši zgradbo in delovanje srca.
+39. Opiši veliki ali telesni in mali ali pljučni krvni obtok.
+40. Opiši limfni sistem (funkcija, kaj ga sestavlja).
+41. Opiši hemofilijo in trombozo.
+42. Opiši arteriosklerozo in krčne žile.
+43. Opiši angino pectoris in srčni infarkt.
