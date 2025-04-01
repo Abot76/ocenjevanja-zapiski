@@ -44,11 +44,35 @@
 		- Sivina - možganska skorja, sestavljena iz teles živčnih celic
 		- belina - notranjost možganov, sestavljena iz živčnih vlaken
 11. Srednji možgani in medmožgani.
+	- SREDNJI:
+		- preklopna enota med velikimi možgani in ostalimi deli
+		- nadzorujejo delovanje zenice(zenični refleks - ko se ti zenica zmanjša zaradi preveč svetlobe)
+	- MEDMOŽGANI:
+		- sestavljeni predvsem iz sivine
+		- najpomembnejša dela sta:
+			- TALAMUS - preklopno središče med velikimi možgani in ostalimi deli možganov
+			- HIPOTALASMUS - nadzor notranjega okolja. uravnava presnavljanje, telesno temp., krvni tlak...
 12. Možgansko deblo.
+	- sestavljeno iz zapleta živčnih celic -> MREŽNA TVORBA izbira sporočila in jih ojača ali zavrže
+	- odgovorno za aktivnost telesa - vzdržuje možgane v stanju budnosti in pozornosti
+	- NI DEL VEGETATIVNEGA ŽIVČEVJA
+		- deluje samostojno, podzavestno - avtonomno živčevje
+		- nadzira delovanje notranjih organov
+	- delimo ga na:
+		- Simpatično - pospešuje delovanje možganov -> izloča adrenalin
+		- Parasimpatično - zavira delovanje organov -> izloča acetilholin
 13. Vegetativno živčevje.
+	- nadzira delovanje notranjih organov in je neodvisno od naše volje
 14. Razloži kaj je shizofrenija, anoreksija.
+	- **Shizofrenija:** Duševna motnja s halucinacijami, blodnjami. 
+	- **Anoreksija:** Motnja prehranjevanja – strah pred hrano, hujšanje.
 15. Razloži kaj je bulimija in kaj so degenerativne bolezni.
+	- **Bulimija:** Prenajedanje in bruhanje. 
+	- **Degenerativne bolezni:** Parkinsonova bolezen, Alzheimerjeva bolezen.
 16. Opiši poškodbe delov živčevja (možganska kap, pretres možganov, vročična kap).
+	- **Možganska kap:** Prekinitev krvnega pretoka v možganih.
+	- **Pretres možganov:** Začasna izguba funkcije možganov.
+	- **Vročična kap:** Pregrevanje telesa povzroči okvaro živčevja.
 ČUTILA
 17. Oko in pomožni deli očesa.
 18. Zgradba očesa (očesno zrklo, mrežnica).
