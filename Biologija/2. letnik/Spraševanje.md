@@ -75,9 +75,20 @@
 	- **Vročična kap:** Pregrevanje telesa povzroči okvaro živčevja.
 ČUTILA
 17. Oko in pomožni deli očesa.
+	- oko je fotoreceptor občutljiv na vidno svetlobo
+	- očesno zrklo leži v očesni votlini, premikajo ga očesne mišice
+	- POMOŽNI DELI očesa so: veke s trepalnicam in obrvi(varujejo oko)
+	- solzne žleze izločajo solze, ki vljažijo roženico in odplakujejo delce prahu
 18. Zgradba očesa (očesno zrklo, mrežnica).
+	- očesno zrklo ima: ciliarnik(mišice za lečo), očesno tekočino, veznico, roženico, zenico, šarenico, lečna vlakna, leča, beločnica, žilnica, mrežnica, steklovina, žile, vidni živec, slepa in rumena pega
 19. Opiši funkcijo beločnice, mrežnice in žilnice.
+	- BELOČNICA - trdna kolagenska ovojnica, ki ščiti očesno jabolko in mu dajo obliko
+	- MREŽNICA - sestavljena iz paličic in čepkov, ter zaporedja živčnih celic ki ojačajo sliko ter jo pošljejo v vidni živec
+	- ŽILNICA - tanka pigmentna plast, ki absorbira svetlobo, da ne bi notranji odsevi pokvarili slike
 20. Opiši funkcijo veznice, roženice in zenice.
+	- VEZNICA - je očesni epitel, ki ščiti roženico pred mehanskimi poškodbami
+	- ROŽENICA - prozorna in prepušča svetlobo v oko
+	- ZENICA - je okrogla odprtina v šarenici
 21. Opiši funkcijo steklovine, leče in šarenice.
 22. Kaj je rumena in kaj slepa pega?
 23. Kako nastane slika?
