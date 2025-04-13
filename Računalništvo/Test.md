@@ -153,12 +153,12 @@ Kaj predstavlja zapis 192.168.100.0
           +--------+    |   +------+                                    |  naslov
 +-----+   |Naslovna|    +-->|ČIP 01|                                    ID čipa
 | CPE |-->| logika |----+   +------+   Naslovna logika prevede naslov
-+-----+   +--------+    |   +------+   iz procesorja v naslov na enem 
-					    +-->|ČIP 10|   izmed pomnilnišik čipov. V tem 
-					    |   +------+   primeru sta prva 2 bita namenjena
-					    |   +------+   ID-ju čipa, in ostalih 6 naslovu
-					    +-->|ČIP 11|   na tem čipu.
-					        +------+
++-----+   +--------+    |   +------+   iz procesorja v naslov na enem
+			+-->|ČIP 10|   izmed pomnilnišik čipov. V tem 
+			|   +------+   primeru sta prva 2 bita namenjena
+			|   +------+   ID-ju čipa, in ostalih 6 naslovu
+			+-->|ČIP 11|   na tem čipu.
+			    +------+
 ```
 
 ## Zbirčni/datotečni sistem
@@ -233,5 +233,6 @@ Kaj predstavlja zapis 192.168.100.0
 ```             |
 IPv4: 192 . 168 | 100 . 045 <- primer
       | NET ID| | |HOST ID|
+		V
               maska
 ```
