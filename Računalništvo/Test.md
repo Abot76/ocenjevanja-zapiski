@@ -233,6 +233,5 @@ Kaj predstavlja zapis 192.168.100.0
 ```             |
 IPv4: 192 . 168 | 100 . 045 <- primer
       | NET ID| | |HOST ID|
-			    |
               maska
 ```
