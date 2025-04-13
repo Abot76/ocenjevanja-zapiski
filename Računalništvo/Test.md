@@ -147,7 +147,8 @@ Kaj predstavlja zapis 192.168.100.0
 - Dodeljevanje pomnilnika procesom upravlja OS, tako da doseže največjo zmogljivost
 - Naslovna logika - Severni most(tako se imenuje ker je na sistemskih programih prikazan nad vsemi ostalimi napravami) prevede virualne naslove pomnilnika ki jih želi dostopati procesor v dejanske fizične naslove v pravem čipu na pomnilniku
 - Npr.: Imamo 4 64bitne pomnilniške čipe
-```                         +------+
+```
+			    +------+
                         +-->|ČIP 00|  virtualni naslov ki ga pozna CPE: 10 011101
                         |   +------+                                    ^  ^
           +--------+    |   +------+                                    |  naslov
@@ -230,7 +231,8 @@ Kaj predstavlja zapis 192.168.100.0
 	- IPv4 ima 32 bitov(4 byte)
 	- IPv6 ima 128 bitov(16 bytov)
 - Pri logičnih naslovim imamo tudi masko ki nam pove koliko bitov od logičnega naslova je namenjenih za Net ID in koliko za Host ID. posledično določa tudi maksimalno število naprav povezanih na to omrežje
-```             |
+```
+                |
 IPv4: 192 . 168 | 100 . 045 <- primer
       | NET ID| | |HOST ID|
 		V
