@@ -1,24 +1,25 @@
-Kaj je operacijski sistem
-Kaj je naloga operacijskega sistema
-Opiši in predstavi kaj je PCB
-Kako se izvede prekinitev
-Napiši vse plasti/nivoje ISO/OSI referenčnega modela v pravem vrstnem redu
-Predstavi niti v operacijskih sistemih
-Naštej razvrščevalne algoritme
-Kaj je zbirni in kaj je strojni jezik
-Kaj je sklad in kako ga uporabimo
-Katere načine naslavljanja pozamo
-Kakšna je razlika med procesorjem in mikrokrmilnikom
-Opiši in predstavi naloge fizičnega sloja
-Kakšna je razlika med WAN in LAN omrežji
-Kaj predstavlja zapis 192.168.100.0
-
 ## Prekinitve
-- prekinitev je dejanje na katerega se procesor takoj odzove in ne čaka v vrsti na izvršitev. Ob vsaki prekinitvi se izvršijo različni ukazi.
+- prekinitev je dejanje na katerega se procesor takoj odzove in ne čaka v vrsti na izvršitev. Ob vsaki prekinitvi se izvršijo različni ukazi. Poznamo zunanje in notranje prekinitve
+	- Zunanje - izvirajo iz zunaj procesorja(sprožila jih je neka druga naprava)
+	- Notranje - izvirajo znotraj procesorja(sproži jih program, lahko pa tudi procesor sam)
 - Past(en.: trap) je vrsta prekinitve ki izvira iz procesorja zaradi poskusa izvršitve neobstoječe ukaza ali prekoračitve aritmetičnih sposobnosti(deljenje z 0)
-- Prekinitve so lahko zunanje(strojne) ali pa notranje(programske)
+- Prekinitve so delimo tudi na maskirne in nemaskirne
+	- maskirne - te prekinitve lahko procesor prezre - počaka da dokonča trenutni posel in jih nato obdela
+	- nemaskirne - te prekinitve prekinejo vse posle ne glede na njihovo pomembnost - obdelane so prve. Angleško jim pravimo NMI(Non Maskable Interrupt)
 - PSP - prekinitveni servisni program <- izvede se ob vsaki prekinitvi
-- Ko se pojavi prekinitev se izvede PSP, ta shrani stanje procesorja(vrednosti vseh registrov) v sklad, preveri v prekinitveni vektor(seznam možnih prekinitev) kaj mora izvesti ob tej prekinitvi in to rutino izvrši. Na koncu obnovi stanje procesorja(vrednosti registrov) iz sklada
+- Sklad (ang. stack) je pomnilniška struktura, ki deluje po načelu zadnji noter – prvi ven (LIFO). Ob prekinitvi se v sklad shrani stanje procesorja (vrednosti registrov, programski števec), da se po končani prekinitvi lahko nadaljuje izvajanje osnovnega programa, kjer je bil prekinjen.
+- Ob prekinitvi se sklad uporabi za:
+    1. Shranjevanje trenutnega stanja (programski števec, registri…)
+    2. Po končani prekinitvi se stanje iz sklada **obnovi**, da se lahko nadaljuje izvajanje programa.
+        
+- Splošni potek izvajanja prekinitve:
+    1. Prekinitev se sproži (zunanja ali notranja)
+    2. Procesor ustavi trenutni proces
+    3. Stanje procesorja se shrani v sklad
+    4. Izvede se prekinitveni servisni program (PSP) – preveri prekinitveni vektor (katera prekinitev, katero rutino izvesti)
+    5. Izvede se ustrezna rutina
+    6. Stanje iz sklada se obnovi
+    7. Program se nadaljuje tam, kjer je bil prekinjen
 ## Operacijski sistemi
 - Operacijski sistem zapolni vrzel med strojno opremo in uporabniškimi ter sistemskimi programi(OS poda enostaven vmesnik ki ga lahko programi uporabijo da komunicirajo z strojno opremo)
 - Ko se računalnik zažene OS naloži vse gonilnike potrebne za delovanje priklopljene strojne opreme(miška, tipkovnica, zaslon)
@@ -173,6 +174,12 @@ Kaj predstavlja zapis 192.168.100.0
 	- zaščita - kdo ima dovoljenje delati kaj z datoteko(npr.: en uporabnik jo lahko samo bere, drug pa ima popoln nadzor)
 
 ## Računalniška omrežja
+- Poznamo WAN in LAN omrežja
+	- WAN - Wide Area Network - omrežje pokriva široko območje npr.:internet
+	- LAN - Local Area Network - omrežje pokriva zelo majhno območje npr.:domače omrežje
+- Če govorimo o geografski delitvi omrežij poznamo še 2 manj uporabljena izraza:
+	- PAN - Personal Area Network - do nekaj metrov npr.:Bluetooth
+	- MAN - Metropolitan Area Network - omrežje ki obsega mesto
 - sestavljena iz fizičnega in storitvenega dela
 	- fizični del - fizične komponente ki povezujejo računalnike(npr.:NIC - omrežna vmesniška kartica(en.:Network interface card), omrežno stikalo(ruter), dostopna točka...)
 	- storitveni del - infrastruktura ki omogoča storitve aplikacijam(npr.: IPTV, VoIP, www...)
@@ -238,3 +245,33 @@ IPv4: 192 . 168 | 100 . 045 <- primer
 		V
               maska
 ```
+
+## Načini povezovanja (topologije)
+
+- Zvezda (star) – vse naprave so povezane prek osrednjega vozlišča (switch ali hub).
+- Mreža (mesh) – vsaka naprava je povezana z več drugimi; zelo zanesljivo.
+- Vodilo (bus) – vse naprave na enem kablu; ni več v uporabi.
+- Obroč (ring) – naprave povezane v krog; podatki potujejo v eno smer.
+
+## Odgovori na specifična vprašanja
+### 39. Katere topologije spadajo k mnogo-točkovni zvezi in katere k zvezi točka-točka?
+- Točka-točka: obroč (ring), mreža (mesh)
+- Mnogo-točkovna: zvezda (star), vodilo (bus)
+### 40. Naštej in na kratko predstavi čiste topologije!
+- Zvezda (star) – vse naprave povezane s centralnim vozliščem.
+- Obroč (ring) – vsaka naprava povezana z dvema sosednjima, signal kroži v krogu.
+- Vodilo (bus) – vse naprave povezane na en sam komunikacijski kanal.
+- Mreža (mesh) – vsaka naprava ima povezave z več drugimi (polna ali delna mreža).
+- Drevo (tree) – hierarhična zgradba z več nivoji zvezd.
+### 42. Opiši in predstavi naloge fizičnega nivoja (sloja):
+- Skrbi za dejanski prenos bitov po mediju (kabel, optika...).
+- Določa napetosti, impulze, priključke, vrste kablov...
+### 43. Opiši in predstavi naloge povezovalnega nivoja (sloja):
+- Ureja okvire (frames), MAC naslove, zazna napake.
+- Zagotavlja zanesljiv prenos med dvema neposredno povezanima napravama.
+### 44. Opiši in predstavi naloge mrežnega nivoja (sloja):
+- Upravlja z naslavljanjem (IP) in usmerjanjem (routing) paketov med omrežji.
+- Uporablja se IP naslov (npr. 192.168.0.1)
+### 47. Kaj predstavlja zapis npr.: 192.168.300.0?
+- Ta zapis ne predstavlja nič, saj so številke v IP naslovu samo do 255
+- Če bo taka napaka na testu nevem, če pa je nebo pa je to IPv4 naslov, najvrjetneje lokalni
