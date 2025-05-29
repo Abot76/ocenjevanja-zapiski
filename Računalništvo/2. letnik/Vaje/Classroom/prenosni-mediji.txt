@@ -1,0 +1,30 @@
+    OSI referenčni model           TCP/IP model <- novejši
++-------------------------+      +-------------------------+
+|    Aplikacijski sloj    |      |    Aplikacijska plast   |
++-------------------------+      |                         |
+|   Predstavitveni sloj   |      |                         |
++-------------------------+      |                         |
+|       Sejni sloj        |      |                         |
++-------------------------+      +-------------------------+
+|    Transportni sloj     |      |    Transportna plast    |
++-------------------------+      +-------------------------+
+|      Omrežni sloj       |      |       Omrežna plast     |
++-------------------------+      +-------------------------+
+|Sloj podatkovne povezave |      |     Plast omrežnega     |
++-------------------------+      |        vmesnika         |
+|       Fizični sloj      |      |                         |
++-------------------------+      +-------------------------+
+
+
+TCP je preprostejši, bolj pogosto uporabljen in posledično bolj kompatibilen
+
+Enkapsulacija je proces v katerem protoli podatkovnim paketom dodajo svojo glavo in rep.
+
+Na fizični plasti je vsa strojna oprema ki se uporablje pri prenosu podatkov(Switchi, kabli, Routerji...)
+
+
+Lastnosti:
+Pasovna širina - hitrost prenosa podatkov
+Motnje - elektromagnetne motnje
+Slabljenje - izguba signala na dolgih razdaljah
+Stroški - cena in enostavnost namestitve

@@ -1,0 +1,10 @@
+Orodje BTOP nam poda informacije o sistemu in delujočih procesih
+
+O procesih nam da informacije:
+- Čas delovanja
+- Stanje(aktivno, spanje...)
+- I/O - input/output
+- Poraba pomnilnika, procesorja
+- Command - ukaz z katerim je bil zagnan
+- Parent - starševski proces, ki je zagnal ta proces
+- Command line arguments - argumenti s katerimi je bil proces zagnan
