@@ -55,7 +55,7 @@
     IP: 192.168.0.1
     Maska: 255.255.255.0
     Gateway: 192.168.0.1
-    DNS: 192.168.0.1 ali javni DNS
+    DNS: Ni potreben za samo lokalno omrežje, drugeče pa javen (8.8.8.8 ali 1.1.1.1 sta pogosta)
     ```
     
 14. **Naštej nekaj usmerjevalnih algoritmov.**
