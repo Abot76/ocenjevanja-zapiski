@@ -7,7 +7,7 @@ Vektor je usmerjena daljica, ki je določena z dolžino in smerjo.
 ## NASPROTNI VEKTOR
 - Je vektor ki je vzporeden danemu vektorju, ima enako dolžino ampak nasprotno smer.
 - zapišemo ga kot $\vec{-a}$ za vektor $\vec{a}$ ali kot $\vec{BA}$ za vektor $\vec{AB}$
-- $\vec{a} || \vec{-a}$
+- $\vec{a} \parallel \vec{-a}$
 - $|\vec{a}| = |\vec{-a}|$
 ## NIČELNI VEKTOR
 - Ima dolžino 0, zato sta začetek in konec v isti točki
