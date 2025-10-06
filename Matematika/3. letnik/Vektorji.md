@@ -35,8 +35,13 @@ Vektor je usmerjena daljica, ki je določena z dolžino in smerjo.
 - Če je absolutna vrednost $n$ večja od 1 potem bo nov vektor $n$ krat daljši, npr.: $\vec{a} * 3$ dobimo vektor z enako smerjo in je 3 krat daljši
 - Če je absolutna vrednost $n$ manjša od 1 ampak večja od nič bo nov vektor krajši, npr.: $\vec{a} * \frac{1}{2}$ dobimo vektor z enako smerjo in polovično dolžino
 ## MNOŽENJE VEKTORJA Z VEKTORJEM
-- Rezultat množenja vektorja z vektorjem je skalar(število)
+- Rezultat množenja vektorja z vektorjem je skalar(število) - zato to računsko operacijo imenujemo *skalarni produkt*
 - vektorje lahko množimo na 2 načina odvisno od podatkov ki jih imamo na voljo
+- Lastnosti(potrebne samo pri teoriji):
+	- *komutativnost* -> $\vec{a} \cdot \vec{b} = \vec{b} \cdot \vec{a}$
+	- *asociativnost* -> $\vec{a} (\vec{b} \cdot \vec{c}) = ni asociativnosti$
+	- *homogenost* -> $(m * \vec{a}) \cdot \vec{b} = m * (\vec{a} \cdot \vec{b})$
+	- 
 ### Skalarni produkt
 - skalarni produkt dobimo ko množimo 2 vektorja med seboj
 - $\vec{a} \cdot \vec{b} = |\vec{a}| * |\vec{b}| * \cos\alpha$
@@ -52,8 +57,24 @@ Vektor je usmerjena daljica, ki je določena z dolžino in smerjo.
 	- $\vec{a} = \vec{b} - \vec{c}$
 	- $\vec{c} = n * \vec{a} + m * \vec{b}$
 - Poseben redko-uporabljen primer linearne kombinacije je *trivialna linearna kombinacija* v kateri so vsi skalarji($m$, $n$,...) enaki **0**
-# KOLINEARNI In KOMPLANARNI VEKTORJI
+# KOLINEARNI IN KOMPLANARNI VEKTORJI
 - Da sta vektorja *kolinearna* pomeni da lahko 1 vektor izrazimo kot $n$-krat drugi vektor, torej imata enako ali pa nasprotno smer
 - Da sta vektorja *linearno nedovisna* pomeni ravno nasprotno - nimata enaka ali nasprotno smeri, posledično velja da nemoremo 1 izrazizi kot $n$-krat 2 vektor. To zapišemo kot $m * \vec{a} + n * \vec{b} = 0$ kjer sta $m$ in $n$ enaka **0**
 - *Linearna odvisnost* je enaka kot *kolinearnost*, stem da *linearno odvisnost* ponavadi zapišemo tako da izrazimo da je 1 vektor enak linearni kombinaciji 2 drugih vektorjev. Enačba je enaka: $m * \vec{a} + n * \vec{b} = 0$, stem da pri *linearni odvisnosti* $m$ in $n$ nista enaka **0**!
 - 2 *nekolinearna* oz. *linearno neodvisna* vektorja lahko določata bazo ravnine podobno kot enotski vektorji, saj nimata enake ali nasprotne smeri, in lahko izrazita osi ravnine
+# PRAVOKOTNA PROJEKCIJA
+- Geometrijski pomen pravokotne projekcije je $\vec{a} * \vec{b} = |\vec{a}| * pr_\vec{a} \vec{b}$, kjer je $\vec{b}$ tisti vektor ki ga projiciramo in $\vec{a}$ tisti vektor **na** katerega projiciramo
+
+# KOSINUSNI IZREK(NISEM ZIHER DA JE V TESTU)
+- Z njim lahko izračunamo katero koli stranico ali kot v trikotniku pod pogojem da imamo vsaj 2 drugi stranici in 1 kot ali pa 1 stranico in 2 kota.
+- $a² = b² + c² - 2*b*c*\cos\alpha$
+- $b² = a² + c² - 2*a*c*\cos\beta$
+- $c² = a² + b² - 2*a*b*\cos\gamma$
+# VEKTORJI V ORTONOMIRANI BAZI
+- ortonomirana baza je koordinatni sistem v katerem vsako os predstavlja en enotski vektor(navadno sta to $\vec{i}$ za x in $\vec{j}$ za y os, $\vec{i} \perp \vec{j}$ - sta pravokotna in linearno neodvisna, ker ne ležita na skupni premici)
+- Vektorje v ortonomirani bazi zapišemo kot $\vec{a} = n*\vec{i} + m*\vec{j}$ - n-krat vektor i + m-krat vektor j, kar je vbistvu linearna kombinacija enotskih vektorjev. Ta vektorj bi v koordinatem sistemu zapisali tako: $\vec{a} = (n, m)$
+- Vektorje v ortonomirani bazi seštevamo in odštevamo po komponentah
+- Vektorje v ortonomirani bazi množimo s skalarjem tako da vsako komponento pomnožimo s skalarjem
+## ZAPIS VEKTORJA V ORTONOMIRANI BAZI ČE POZNAMO ZAČETNO IN KONČNO TOČKO
+- Recimo da želimo zapisati vektor v ortonomirani bazi ki se začne v točki A in konča v točki B, to naredimo tako za odštejemo krajevna vektorja teh dveh točk in kot rezultat bomo dobili naš vektor. Npr.: točka A - začetek, točka B konec, zapis: $\vec{AB} = \vec{r_B} - \vec{r_A} = (B_1 - A_1, B_2 - A_2)$
+- 
