@@ -86,6 +86,9 @@ Vektor je usmerjena daljica, ki je določena z dolžino in smerjo.
 
 # RAZPOLOVIŠČE DALJICE
 - Recimo da imamo vektor $\vec{AB}$ in želimo najti razpolovišče ki je v točki $R$, potem moramo najti komponente vektorja ki se začne v koncu ali začetku vektorja $\vec{AB}$(npr.: točka $A$) in se konča v razpolovišču(točka $R$). Ker je točka $R$ razpolovišče tega vektorja, bo imel novi vektor polovično dolžino in to zapišemo kot: $\vec{AR} = \frac{1}{2}\vec{AB}$
-- To potem pretvorimo v krajevne vektorje kot piše zgoraj [[Vektorji#^6d8e14]]: $\vec{r_R} - \vec{r_A} = \frac{1}{2} * (\vec{r_B} - \vec{A})$
+- To potem pretvorimo v krajevne vektorje kot piše zgoraj pri *zapisu vektorja v ortonomirani bazi če poznamo začetno in končno točko: $\vec{r_R} - \vec{r_A} = \frac{1}{2} * (\vec{r_B} - \vec{A})$
 - Če izrazimo $\vec{r_R}$ potem dobimo da ima koordinate $(\frac{A_1 + B_1}{2}, \frac{A_2 + B_2}{2})$
 # TEŽIŠČE
+- Težišče je presečišče vseh težiščnic
+- Težišče lahko tudi zapišemo kot *točka ki deli daljico med ogliščem in razpoloviščem nasprotne stranice v razmerju 2:1*
+- Torej če imamo oglišče v trikotniku $A$ in točko $R$ ki razpolavlja stranico $a$ bo vektor ki se začne v oglišču $A$ in konča v težišču izražen z: $\vec{AT} = \frac{2}{3}\vec{AR}$ in če poznamo koordinate točk $A$ in $R$(dobimo tako da izračunamo razpolovišče kot v prejšni točki) ter komponente vektorja $\vec{AT}$, lahko to enačbo izrazimo z krajevnimi vektorji: $\vec{r_T} - \vec{r_A} = \frac{2}{3} (\vec{r_R} - \vec{r_A})$, potem pa samo izpostavimo krajevni vektor $\vec{r_T}$ in izračunamo njegove komponente da dobimo koordinate težišča
