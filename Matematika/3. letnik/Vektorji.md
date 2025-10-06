@@ -76,5 +76,16 @@ Vektor je usmerjena daljica, ki je določena z dolžino in smerjo.
 - Vektorje v ortonomirani bazi seštevamo in odštevamo po komponentah
 - Vektorje v ortonomirani bazi množimo s skalarjem tako da vsako komponento pomnožimo s skalarjem
 ## ZAPIS VEKTORJA V ORTONOMIRANI BAZI ČE POZNAMO ZAČETNO IN KONČNO TOČKO
+
+^6d8e14
+
 - Recimo da želimo zapisati vektor v ortonomirani bazi ki se začne v točki A in konča v točki B, to naredimo tako za odštejemo krajevna vektorja teh dveh točk in kot rezultat bomo dobili naš vektor. Npr.: točka A - začetek, točka B konec, zapis: $\vec{AB} = \vec{r_B} - \vec{r_A} = (B_1 - A_1, B_2 - A_2)$
-- 
+# VEKTORJI V ORTONOMIRANI BAZI V PROSTORU
+- dodamo še eno os v primerjavi z navadno ortonomirano bazo, in sicer Z os(imenuje se tudi aplikativna os), ki jo predstavimo z enotskim vektorjem $\vec{k}$
+- Ostalo je vse enako kot pri navadni ortonomirani bazi
+
+# RAZPOLOVIŠČE DALJICE
+- Recimo da imamo vektor $\vec{AB}$ in želimo najti razpolovišče ki je v točki $R$, potem moramo najti komponente vektorja ki se začne v koncu ali začetku vektorja $\vec{AB}$(npr.: točka $A$) in se konča v razpolovišču(točka $R$). Ker je točka $R$ razpolovišče tega vektorja, bo imel novi vektor polovično dolžino in to zapišemo kot: $\vec{AR} = \frac{1}{2}\vec{AB}$
+- To potem pretvorimo v krajevne vektorje kot piše zgoraj [[Vektorji#^6d8e14]]: $\vec{r_R} - \vec{r_A} = \frac{1}{2} * (\vec{r_B} - \vec{A})$
+- Če izrazimo $\vec{r_R}$ potem dobimo da ima koordinate $(\frac{A_1 + B_1}{2}, \frac{A_2 + B_2}{2})$
+# TEŽIŠČE
