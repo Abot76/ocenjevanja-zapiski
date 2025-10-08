@@ -24,26 +24,39 @@ Vsak stavek je sestavljen iz stavčnih členov. Glavna sta **osebek** in **poved
 	- **ZLOŽEN POVEDEK** - več besed + glagolska oblika(npr.: želi spati)
 		- ^*spati* je **povedkovo določilo**
 
-### Predmet (koga? česa? komu? čemu? s kom? s čim?)**
-- Dopolnjuje povedek in pove, na kaj ali na koga je usmerjeno dejanje.
-- Vprašalnice: Koga? Česa? Komu? Čemu? S kom? S čim?
+### Predmet
+- Podčrtamo ga z **2 črtama**
+- Vprašamo se po njem z vsemi *vprašalnicami za sklanjanje **razen** z tistimi za **imenovalec***
+- Predmet izraža podatke o tem komu/čemu je nekaj **namenjeno** ali koga nekaj **prizadeva**
+- Lahko je sestavljen iz 1 polnopomenske besede ali večih
 - Vrste:
-	- **Neposredni predmet** (npr. *Berem knjigo.*).
-	- **Posredni predmet** (npr. *Dal sem mu knjigo.*).
+	- **POLNOPOMENSKI** - spati, tekati
+	- **NEPOLNO POMENSKI** - oblike glagola biti(je, so...), modalni glagoli(želim, moram) in glagoli v nedoločniku
 
-### Prislovno določilo (kje? kam? kako? kdaj? zakaj?)**
-- Določa okolnost dejanja (kraj, čas, način, vzrok...).
-- Vprašalnice: Kje? Kam? Kako? Kdaj? Zakaj?
-- Lahko nastopa tudi brez povedka.
+### Prislovno določilo
+- Dopolnjuje povedek z podatki kje, kdaj, zakaj, kako...
+- Poznamo veliko prislovnih določil:
+	- kraja - kje?
+	- časa - kdaj?
+	- vzroka - zakaj?
+	- načina - kako?
+	- pomena - čemu?
+	- pogoja - pod katerim pogojem?
+	- dopustitve - kjub čemu?
+	- in več
+- Lahko jih je več v enem stavku
 
 ## VRSTE POVEDI
 
-*   **Enostavna poved**: Vsebuje en sam glagolski sklop (en osebek in en povedek).  
-    *Primer: Sonce sije.*
+### Enostavčna poved: 
+- Vsebuje eno samo glagolsko obliko ali pa je lahko tudi brez nje  
+    *Primer: Sonce sije.(1 glagolska oblika) ALI Sonce.(brez glagolske oblike)*
 
-*   **Sestavljena poved**: Vsebuje več glagolskih sklopov.
-    *   **Vezana zložena poved**: Stavek je sestavljen iz več med seboj neodvisnih stavkov, povezanih z vezniki (in, pa, ter, ali).
-    *   **Podredna zložena poved**: Vsebuje en glavni stavek in en ali več odvisnih (podrednih) stavkov, ki so odvisni od glavnega.
+### Več stavčna poved
+- Vsebuje več glagolskih oblik. Ločimo
+	- **PRIREDNO ZLOŽENE** - stavka/i so si pomensko in zgradbeno podobni
+	- **PODREDNO ZLOŽENE** - en stavek ne more brez drugega/ih - *glavni+odvisni*
+	- **PASTAVEK** - *DA/SEVEDA/NE* + 2. stavek
 
 ## PODREDNA (ODVISNA) ZLOŽENA POVED
 
