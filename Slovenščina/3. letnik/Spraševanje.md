@@ -48,17 +48,19 @@ Vsak stavek je sestavljen iz stavčnih členov. Glavna sta **osebek** in **poved
 
 ## VRSTE POVEDI
 
-### Enostavčna poved: 
+### Eno-stavčna poved: 
 - Vsebuje eno samo glagolsko obliko ali pa je lahko tudi brez nje  
     *Primer: Sonce sije.(1 glagolska oblika) ALI Sonce.(brez glagolske oblike)*
 
-### Več stavčna poved
+### Več-stavčna poved
 - Vsebuje več glagolskih oblik. Ločimo
 	- **PRIREDNO ZLOŽENE** - stavka/i so si pomensko in zgradbeno podobni
 	- **PODREDNO ZLOŽENE** - en stavek ne more brez drugega/ih - *glavni+odvisni*
 	- **PASTAVEK** - *DA/SEVEDA/NE* + 2. stavek
 
-## PODREDNA (ODVISNA) ZLOŽENA POVED
+
+
+## PODREDNO ZLOŽENA POVED
 
 Odvisni stavki dopolnjujejo glavni stavek in so od njega odvisni. Delimo jih glede na to, kateri stavčni člen nadomeščajo.
 
@@ -76,14 +78,12 @@ Odvisni stavki dopolnjujejo glavni stavek in so od njega odvisni. Delimo jih gle
 |   – pogojni | Pogoj | Pod kakšnim pogojem? | če |
 | **Prilastkov odvisnik** | Nadomešča prilastek | Kakšen? Kateri? | ki, kateri, da, ali |
 
-## VRSTE PRIREDKOV (povezujejo neodvisne stavke)
+## PRIREDNO ZLOŽENA POVED
 
-*   **Vezalni prirerek**: Izraža povezovanje (vezniki: *in, pa, ter*).
-*   **Ločni prirerek**: Izraža izbirnost (vezniki: *ali, bodisi... bodisi*).
-*   **Protivni prirerek**: Izraža nasprotje (vezniki: *a, toda, vendar, ampak, pa*).
-*   **Pojasnjevalni prirerek**: Drugi stavek pojasnjuje prvega (vezniki: *saj, namreč*).
-*   **Posledični prirerek**: Drugi stavek je posledica prvega (veznik: *zato*).
-*   **Stalni prirerek**: Drugi stavek izraža stalno nasprotje (npr. *Nekateri se učijo, drugi se igrajo.*).
-
----
-**Pomembna opomba:** Povzetek je sestavljen na podlagi razpoznanega besedila iz slik, ki je v nekaterih delih težko berljivo in netipično zapisano. Priporočljivo je snov preveriti v uradnem slovničnem viru.
+* **VEZALNO PRIREDJE** - izraža povezovanje (*in, pa, ter*).
+* **STOPNJEVALNO PRIREDJE** - ko se vsebinsko nekaj stopnjuje(*ne samo, ampak tudi*)
+* **LOČNO PRIREDJE** - izraža možnost izbire (*ali, bodisi*).
+* **PROTIVNO PRIREDJE** - izraža nasprotje (*a, toda, vendar, ampak, pa, temveč, marveč*).
+* **POJASNJEVALNO PRIREDJE** - drugi stavek pojasnjuje prvega (*saj, namreč, kajti*).
+* **POSLEDIČNO PRIREDJE** - govori o posledici dejanja/stanja (*zato*).
+	* **sklepalno priredje** - podvrsta, primer: *Otrok se je sam vrnil domov - torej se ni izgubil*
