@@ -1,8 +1,4 @@
-Tole je povzetek snovi o skladnji, pridobljen iz vseh posnetkov. Osredotoča se na stavčne člene in vrste povedi, kar je osnova slovnične strukture.
-
----
-
-# OSNOVE SKLADNJE
+# SKLADNJA
 ***Skladnja se ukvarja z vlogo posameznih besed in njihovo skupno povezanostjo***
 
 ## STAVČNI ČLENI
