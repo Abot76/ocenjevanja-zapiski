@@ -59,44 +59,45 @@
     ```
     
 14. **Naštej nekaj usmerjevalnih algoritmov.**
-    | Algoritem	| Tip               | Opis                                                                      |
-    | --------- | ----------------- | ------------------------------------------------------------------------- |
-    | RIP       | Vektor razdalj  	| Uporablja štetje skokov, enostaven, počasnejši, max 15 skokov.            |
-    | IGRP	    | Vektor razdalj	  | Bolj napreden kot RIP, podpira več metrik (npr. pasovna širina).          |
-    | EIGRP	    | Hibridni protokol | Cisco protokol, kombinira hitrost in zanesljivost, učinkovito usmerjanje. |
-    | OSPF	    | Glede na stanje	  | Hitro prilagajanje, uporablja Dijkstrov algoritem, skalabilen             |
-    | IS-IS	    | Glede na stanje	  | Podoben OSPF, pogosto uporabljen v velikih omrežjih in pri ponudnikih.    |
+
+| Algoritem | Tip | Opis |
+| --- | --- | --- |
+| RIP | Vektor razdalj | Uporablja štetje skokov, enostaven, počasnejši, max 15 skokov. |
+| IGRP	    | Vektor razdalj	  | Bolj napreden kot RIP, podpira več metrik (npr. pasovna širina).          |
+| EIGRP	    | Hibridni protokol | Cisco protokol, kombinira hitrost in zanesljivost, učinkovito usmerjanje. |
+| OSPF	    | Glede na stanje	  | Hitro prilagajanje, uporablja Dijkstrov algoritem, skalabilen             |
+| IS-IS	    | Glede na stanje	  | Podoben OSPF, pogosto uporabljen v velikih omrežjih in pri ponudnikih.    |
         
-15. **Naprave za povezovanje v omrežje so:**  
+16. **Naprave za povezovanje v omrežje so:**  
     Switch, router, modem, hub, dostopna točka, omrežna kartica (NIC).
     
-16. **Kaj je fizična topologija omrežja in katere poznamo?**  
+17. **Kaj je fizična topologija omrežja in katere poznamo?**  
     Fizična topologija opisuje fizično razporeditev naprav in kablov. Poznamo: zvezdo, vodilo, obroč, mrežo, drevo.
     
-17. **Navedi prednosti in slabosti posameznih topologij.**
+18. **Navedi prednosti in slabosti posameznih topologij.**
     - **Zvezda:** +enostavna za vzdrževanje, -centralna točka
     - **Vodilo:** +malo kablov, -moteče za več naprav
     - **Obroč:** +enakomerna razdalja, -pokvarjena naprava prekine celoten obroč
     - **Mreža:** +zelo zanesljiva, -kompleksna in draga
     - **Drevo:** +hierarhija, -težje razširjanje
         
-18. **Kakšne osnovne logične topologije omrežij poznamo?**  
+19. **Kakšne osnovne logične topologije omrežij poznamo?**  
     Vodilo, zvezda, obroč.
     
-19. **Katere fizične komponente potrebujemo za gradnjo omrežij s topologijo vodila?**  
+20. **Katere fizične komponente potrebujemo za gradnjo omrežij s topologijo vodila?**  
     kable, omrežne kartice in naprave ki jih bomo povezali.
     
-20. **Katere fizične komponente potrebujemo za gradnjo omrežij s topologijo zvezde?**  
+21. **Katere fizične komponente potrebujemo za gradnjo omrežij s topologijo zvezde?**  
     Switch ali hub, kabli, omrežne kartice.
     
-21. **Katere pristopne metode urejajo prenos podatkov v lokalnem omrežju?**
+22. **Katere pristopne metode urejajo prenos podatkov v lokalnem omrežju?**
     - **CSMA/CD** (Ethernet)
     - **CSMA/CA** (Wi-Fi)
         
-22. **Na kratko opiši princip delovanja pristopne metode CSMA/CD.**  
+23. **Na kratko opiši princip delovanja pristopne metode CSMA/CD.**  
     Naprava posluša kanal, če je prost, pošlje podatke. Če pride do trka, počaka naključno količino časa in ponovno pošlje.
     
-23. **Zapišite plasti TCP/IP in ISO/OSI modela ju primerjajte.**
+24. **Zapišite plasti TCP/IP in ISO/OSI modela ju primerjajte.**
     ```
         OSI referenčni model           TCP/IP model <- novejši
     +-------------------------+      +-------------------------+
@@ -115,13 +116,13 @@
     |       Fizični sloj      |      |                         |
     +-------------------------+      +-------------------------+
     ```
-24. **Kaj je enkapsulacija?**  
+25. **Kaj je enkapsulacija?**  
     Proces, ki paketu podatkov doda svojo glavno in rep(header) preden jih pošlje naprej.
     
-25. **Kaj je definirano na fizični plasti?**  
+26. **Kaj je definirano na fizični plasti?**  
     Vrsta kablov, konektorjev, signalizacija, električne napetosti – fizični prenos bitov.
     
-26. **Zapišite glavne lastnosti prenosnih medijev, ki jih uporabljamo v računalniških omrežjih.**
+27. **Zapišite glavne lastnosti prenosnih medijev, ki jih uporabljamo v računalniških omrežjih.**
     
     - **Twisted pair (UTP):** cenovno ugoden, do 10 Gbps, občutljiv na motnje
         

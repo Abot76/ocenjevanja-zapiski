@@ -436,7 +436,10 @@ ___
 - Kdaj se konča?
 - Zakaj takšno ime? (ni bilo pravega realizma, vpliv Prešerna)
 - Predstavo okoliščine tega obdobja.
-- Primerjaj svetovni in slovenski realizem. (svetovni realizem opisuje predvsem objektivno, ni nekih čustev, medtem ko pa pride slovenskem imamo čustva kot je ljubezen, sreča..., junaki izpovedujejo čustva, zato je najbolj razširjena epika...)
+- Primerjaj svetovni in slovenski realizem. (svetovni realizem opisuje predvsem objektivno, ni nekih čustev, medtem ko pa pride slovenskem imamo čustva kot je ljubezen, sreča..., junaki izpovedujejo čustva, zato je najbolj razširjena epika, pri obeh obdobjih pa prevladuje epika, čeprav se v slovenskem "realizmu" zraven tudi razširi lirika)
+- Poimenuj in predstavi Levstikov literarni program. (značilnosti Popotovanja od Litije do Čateža)
+- Naštej predstavnike obdobja med romantiko in realizmom.
+- Predstavi pomen obdobja za slovensko književnost. (dobimo prvi slovenski roman, prvi zgodovinski slovenski roman, ljudje se začnejo narodno ozaveščati, slovenščina dobi večjo vlogo v javnem življenju...)
 ___
 # Obrazi
 ## Avtor
@@ -502,9 +505,15 @@ ___
 - to ponazarja, da mati obupano žaluje na hčerinem grobu, narava pa se ji razkošno smeje
 
 ## Možna vprašanja
-- nismo še povedali kaj lahko da, zato še v ponedeljek dopišem
-
-
+- Poimenuj avtorja Obrazov.
+- Predstavi zgradbo obrazov. (21 obrazov, vsak prikazuje drugačen dogodek iz narave ali življenja)
+- Pojasni kaj pomeni Obraz. (torej neko podobo iz narave ali življenja, najprej se je uporabljal v epiki, kasneje pa tudi v liriki)
+- Pojasni zakaj gre za cikel. (ker je tema ves čas podobna, saj je ves čas govora o minljivosti človeka in nadvlade narave)
+- Predstavi zunanjo zgradbo. (kitice, verzi, krakovnjak, tristopični trohej...)
+- Utemelji kaj prevladuje v uvodnem obrazu. (prevladujejo romantične prvine, človek in narava sta v ravnovesju, narava je poosebljena)
+- Kako pesnik sprejme svoje življenje? (sprijazni se, da je življenje in delo človeka minljivo in da ima narava oblast nad njim)
+- Poišči pesniška sredstva. (rima, motiv, tema, poosebitev, primera...)
+- Vsa vprašanja so interpretirana. (odgovarjaš ob pesmi)
 ___
 # Njega ni
 ## Avtor
@@ -556,4 +565,423 @@ ___
 - podvojitev, s katero pesnik poudari dekletovo žalost: deva bleda, deva bleda
 
 ## Možna vprašanja
-- nismo še povedali kaj lahko da, zato še v ponedeljek dopišem
+- Poimenuj avtorja pesmi Njega ni.
+- Zakaj je pesem lirsko-epska? Predstavi značilnosti. (ima lirske prvine - izpoveduje ljubezen, žalovanje, hrepenenje, ima rimo, je v obliki kitice, ponovitev, retorično vprašanje...; epske prvine - določimo lahko dogajalni prostor in čas, pesem lahko obnovimo po kiticah)
+- Kaj je glavni motiv v pesmi? (odhod fanta)
+- Poišči lirske prvine (rima, verz, manjšalnice, okrasni pridevki, retorično vprašanje, podvojitev (anadiploza), metonimija...)
+- To lahko tudi da z interpretiranjem. (ob pesmi)
+
+- Za vsa ostala dela lahko da tudi odlomek iz zgodbe in če te sprašuje o nekih značilnostih, moraš dati značilnosti, ki jih najdeš v odlomku, ker drugače ti ne šteje.
+- Pa dobro si poglej značilnosti obdobij ter razlike in podobnosti med njima.
+
+
+## **Evropski realizem in naturalizem**
+
+### **Kdaj se pojavi evropski realizem?**
+
+➡️ Realizem se pojavi **med letoma 1830 in 1870**.
+
+### **Pojasni, zakaj ime realizem.**
+
+➡️ Ime izhaja iz latinske besede **"realis"**, ki pomeni **stvar, nekaj resničnega**. Realizem prikazuje **resnično življenje in družbene razmere**, brez olepševanja.
+
+### **Opiši ali predstavi okoliščine, ki so vplivale na razvoj realizma.**
+
+➡️ Vplivale so:
+
+- **Industrijska revolucija**: nastanek mest, razred delavcev, kapitalizem
+    
+- **Tehnološki napredek**: telefon, žarnica, avto, likalnik
+    
+- **Nove vede**: sociologija, biologija, psihologija
+    
+- **Propad plemstva in vzpon meščanstva**
+    
+
+### **Kako se realizem razlikuje od romantike?**
+
+➡️ Realizem:
+
+- Neolepšan, objektiven pogled na družbo
+    
+- Prikazuje vsakdanje življenje, banalnost
+    
+- Poudarja stvarnost, realna razmerja
+    
+
+➡️ Romantika:
+
+- Subjektivnost, domišljija
+    
+- Romantični junak razpet med sanjami in stvarnostjo
+    
+- Čustveno izražanje
+    
+
+### **Katera literarna zvrst se najbolj razvije in zakaj?**
+
+➡️ **Proza**, zlasti roman, ker omogoča **opisovanje stvarnih okoliščin**, dolge pripovedi, psihološko poglabljanje.
+
+### **Naštej predstavnike evropskega realizma in naturalizma.**
+
+**Realizem:**
+
+- **Francija**: Balzac, Flaubert, Stendhal
+    
+- **Anglija**: Dickens, Thackeray, George Eliot
+    
+- **Rusija**: Gogolj, Turgenjev, Dostojevski
+    
+- **Nemčija**: Keller, Storm, Fontane
+    
+- **Norveška**: Ibsen
+    
+
+**Naturalizem:**
+
+- **Proza**: Emile Zola, Guy de Maupassant
+    
+- **Dramatika**: Henrik Ibsen, August Strindberg
+    
+
+### **Naštej in opiši vrste realizma.**
+
+- **Romantični realizem**: preplet romantičnih in realističnih prvin (Stendhal, Balzac, Dickens)
+    
+- **Objektivni realizem**: nepristranski, objektiven pogled (Flaubert, Tolstoj)
+    
+- **Socialni realizem**: prikazuje življenje socialno ogroženih (Dickens)
+    
+- **Poetični realizem**: idealiziran, z moralnimi in optimističnimi prvinami (Keller, Fontane)
+    
+- **Psihološki realizem**: poudarek na notranjem svetu (Dostojevski)
+    
+- **Impresionistični realizem**: vtisi zunanjega in notranjega sveta (Čehov)
+    
+- **Kritični realizem**: kritika meščanske družbe (Dickens, Gogolj, Prežihov Voranc...)
+    
+
+### **Kdaj se razvije naturalizem? Iz česa se razvije?**
+
+➡️ Razvije se **po letu 1870** iz **objektivnega realizma**.
+
+### **Katera novost se pojavi v realizmu?**
+
+➡️ Novi tipi **romanov** (socialni, kmečki, vojni...) in **dramske oblike** (meščanska, psihološka...).  
+➡️ **Emile Zola uvede eksperimentalni roman**, kjer človekove odločitve določa **doba, rasa in okolje**.
+
+### **Kakšen je tvoj odnos do te literature?**
+
+➡️ Lahko rečeš: zanimiva je, ker **ne olepšuje resničnosti**, prikazuje **resnične stiske** in **psihologijo človeka**, čeprav je **težja za branje**, saj prikazuje krutost in trpljenje.
+
+---
+
+## **Gospa Bovary – Gustave Flaubert**
+
+### **Kdaj in kje se dogaja Gospa Bovary?**
+
+➡️ V **Franciji**, v **19. stoletju**; kraji: **Tostes, Yonville, Rouen**.
+
+### **Kje je avtor dobil snov?**
+
+➡️ Iz **časopisnega članka o samomoru ženske**.
+
+### **Označi Emmo ali Charlesa.**
+
+➡️ **Emma**: romantična, čustvena, sanja o idealni ljubezni, ni zadovoljna z realnim življenjem.  
+➡️ **Charles**: povprečen zdravnik, dober, a nezanimiv, ne zmore zadovoljiti ženinih pričakovanj.
+
+### **Ali se ti zdi Emma romantična ali realistična oseba?**
+
+➡️ **Romantična**, ker beži v ljubezenske afere, da bi pobegnila od stvarnosti.
+
+### **V katero smer spada roman?**
+
+➡️ V **objektivni realizem**.
+
+### **Katera vrsta pripovedovalca je?**
+
+➡️ **Brezosebni tretjeosebni pripovedovalec**, ki **ne komentira**, ampak objektivno prikazuje dogajanje.
+
+### **Ali razumeš ali obsojaš Emmo?**
+
+➡️ Mnenje: **Obsojam**, ker je varala moža, ki ji je želel le dobro, a je bil preveč pasiven. Njene želje niso bile realne.
+
+### **Povzemi zgodbo.**
+
+➡️ Emma se poroči s Charlesom, ki ji je dolgočasen. Sanjari o strastni ljubezni in se zaplete z Rodolphom in Leonom. Zadnja zveza ji povzroči dolgove. Ko ne vidi več izhoda, se zastrupi. Charles kasneje tudi umre, hčerka ostane sirota.
+
+---
+
+## **Zločin in kazen – Fjodor Mihajlovič Dostojevski**
+
+### **Kdo so glavne osebe? Naštej vsaj 3.**
+
+➡️ **Razkolnikov**, **Sonja Marmeladova**, **Aljona Ivanovna**, **Razumihin**
+
+### **Kako si razlagaš naslov Zločin in kazen?**
+
+➡️ Zločin pomeni umor, ki ga stori Razkolnikov. Kazen pa je **moralno, psihično in pravno trpljenje**, ki sledi. Vse ima posledice.
+
+### **Od kod je avtor vzel snov?**
+
+➡️ Iz **časopisnega članka o zločinu**.
+
+### **Predstavi Razkolnikovega. Kaj pomeni njegovo ime?**
+
+➡️ Revni študent, **razklan** med moralnimi in idejnimi načeli. Meni, da lahko "večvredni" ljudje prestopajo meje. Na koncu ugotovi, da ni imel prav.
+
+### **Kakšno je pisanje avtorja?**
+
+➡️ **Psihološko**, osredotočeno na notranji svet, uporablja **notranje monologe**, manj opisuje okolico.
+
+### **Kako kraj in čas vplivata na roman?**
+
+➡️ St. Peterburg, sredi 19. stoletja – **temačna revščina**, opozorilo na **socialne krivice**.  
+➡️ Dogaja se **v kratkem časovnem obdobju**, brez epske širine.
+
+### **Katera vrsta romana prevladuje?**
+
+➡️ **Psihološki roman**
+
+### **Katera etična vprašanja se pojavljajo, opredeli se do njih.**
+
+➡️ Ali lahko človek ubije drugega, če misli, da dela prav?  
+➡️ Moje mnenje: **Ne**, nihče nima pravice vzeti življenja, tudi če se mu zdi, da s tem naredi družbi uslugo.
+
+---
+
+## **Beznica – Emile Zola**
+
+### **Predstavi obnovo Beznice.**
+
+➡️ Gervaise si želi normalno življenje, poroči se s Coupeaujem, zgradi si posel. Zaradi njegovega in nato tudi njenega pitja vse propade. Umre sama in revna. Hči Nana postane prostitutka.
+
+### **Kateri roman se pojavlja? Pokaži, da gre za ta roman.**
+
+➡️ **Eksperimentalni roman** – prikazuje vpliv **dednosti, okolja in časa** na usodo ljudi (družina Macquart).  
+➡️ Gervaise se kljub trudu **ne more izogniti pogubi**, kar potrjuje **naturalistične teorije**.
+
+### **Označi Gervaise.**
+
+➡️ **Delavna, vztrajna, ljubeča mati**, vendar se podredi okolju, revščini in pijanstvu. Na koncu jo življenje zlomi.
+
+### **Primerjaj jo z gospo Bovary.**
+
+➡️ **Emma** je višji sloj, **Gervaise** nižji.  
+➡️ Emma išče romantiko, Gervaise išče stabilnost.  
+➡️ Obe umreta tragično – Emma zaradi dolgov, Gervaise zaradi izčrpanosti.  
+➡️ Emma zapravlja, Gervaise želi biti skromna.
+
+### **Predstavi naturalistične prvine.**
+
+➡️ **Estetika grdega**, **determiniranost** (čas, rasa, okolje), **eksperimentalni pristop**, podrobni opisi, **vulgarni jezik**, **realistične socialne razmere**.
+
+### **Kaj je ideja?**
+
+➡️ **Človek ne more ubežati dednosti, okolju in času** – te sile določajo njegovo življenje.
+
+## ✅ **REVIZOR – Gogolj**
+
+### 1. Obnovi Revizorja.
+
+Uradniki malega mesta izvejo, da prihaja revizor. Po pomoti za revizorja vzamejo lahkomiselnega in revnega Hlestakova, ki se pretvarja, da je pomemben mož. Uradniki ga podkupujejo, župan mu ponudi hčerko. Hlestakov pobegne, napiše posmehljivo pismo, nato pa pride pravi revizor. Vsi so šokirani – **nemi prizor**.
+
+### 2. V katero literarno vrsto spada?
+
+V **dramatiko**, podvrsta je **komedija**.
+
+### 3. Predstavi idejo in se do nje opredeli.
+
+Ideja: kritika podkupljivega, skorumpiranega uradništva. Gogolj prikaže, kako oblastniki izkoriščajo moč.  
+**Moje mnenje:** Gre za pomembno družbeno kritiko, ki je aktualna še danes. Pokazano je, kako hitro ljudje podležejo strahu in korupciji.
+
+### 4. Kako je delo zgrajeno?
+
+Zgrajeno je v **petih dejanjih** in več prizorih. Sledi **dramskemu trikotniku**:
+
+- **zasnova:** pismo o revizorju
+    
+- **zaplet:** Hlestakov pride v mesto
+    
+- **vrh:** laže o sebi
+    
+- **razplet:** resnica pride na dan
+    
+- **razsnova:** nemi prizor z resničnim revizorjem
+    
+
+### 5. Ali se strinjaš, da bi delo lahko bilo povezano s sedanjostjo?
+
+Da – še danes poznamo primere **korupcije, nesposobnih uradnikov**, ljudi, ki izkoriščajo druge za lastno korist. Kritika je univerzalna.
+
+### 6. Zakaj v delu ni nobenega pozitivnega lika?
+
+Noben lik ni idealen – Gogolj želi, da **ne simpatiziramo z nobenim**, ampak **sovražimo sistem** in razmislimo o družbeni odgovornosti vseh.
+
+### 7. Kako razumeš nemi prizor?
+
+V njem se vsi zavejo svoje napake. Gre za **trenutek popolnega šoka in spoznanja**, da so bili prevarani – **kriza vesti**.
+
+---
+
+## ✅ **OBDOBJE MED ROMANTIKO IN REALIZMOM**
+
+### 1. Kdaj se je začelo in končalo?
+
+- Začetek: **1848 (marčna revolucija)** ali 1849 (Prešernova smrt)
+    
+- Konec: **1899** (Erotika – Cankar, Čaša opojnosti – Župančič)
+    
+
+### 2. Zakaj takšno ime?
+
+Ker se **romantične in realistične prvine prepletajo**. Slovenska književnost še ni čisto realistična, saj je Prešernov vpliv močan.
+
+### 3. Predstavi okoliščine obdobja.
+
+- pojav **nacionalne zavesti**
+    
+- nastanek **čitalnic**
+    
+- dve politični stranki (staroslovenci in mladoslovenci)
+    
+- literarni premiki (časopisi, zbirke, prvi roman itd.)
+    
+
+### 4. Primerjaj svetovni in slovenski realizem.
+
+- **Svetovni:** objektiven, brez čustev, dejstveni
+    
+- **Slovenski:** realistična vsebina, **vpliv romantike**, čustva, subjektivnost, **liriko se še veliko piše**
+    
+
+### 5. Poimenuj in predstavi Levstikov literarni program.
+
+**Popotovanje od Litije do Čateža**:
+
+- pisanje o **kmetih**
+    
+- preprosto, šaljivo, domače
+    
+- **posebneži** kot stranski liki
+    
+
+### 6. Naštej predstavnike.
+
+- Fran Levstik, Josip Jurčič, Janko Kersnik, Simon Jenko, Anton Aškerc...
+    
+
+### 7. Predstavi pomen obdobja za slovensko književnost.
+
+- prvi slovenski roman (**Deseti brat**)
+    
+- zgodovinski roman (**Visoška kronika**)
+    
+- narodna zavest
+    
+- **slovenščina** postaja **javni jezik**
+    
+
+---
+
+## ✅ **OBRAZI – Simon Jenko**
+
+### 1. Poimenuj avtorja.
+
+**Simon Jenko** – pesnik, doma iz Podreče pri Mavčičah, pesnik **realističnega prehoda**.
+
+### 2. Predstavi zgradbo Obrazov.
+
+- **21 pesmi (obrazov)**
+    
+- **vsaka** je pogled na dogodek iz **življenja ali narave**
+    
+
+### 3. Kaj pomeni obraz?
+
+Sprva **epska enota**, tukaj v **liriki** – pomeni **podoba, prizor**, skozi katerega se pesnik izraža.
+
+### 4. Zakaj gre za cikel?
+
+Vse pesmi so **tematsko povezane** – narava, minljivost, razmerje človek–narava.
+
+### 5. Zunanja zgradba?
+
+- 4-verzne **kitice** (kvartine)
+    
+- **tristopični trohej**
+    
+- pogosto rima vsakega **sodega verza**
+    
+
+### 6. Kaj prevladuje v uvodnem obrazu?
+
+- **Romantični elementi:** narava je poosebljena, človek je z njo v ravnovesju
+    
+- napove glavno **temo cikla**
+    
+
+### 7. Kako pesnik sprejme svoje življenje?
+
+Sprijazni se, da je **človek minljiv**, narava pa **večna** in nad njim.
+
+### 8. Pesniška sredstva?
+
+- **poosebitev, primera, rima, anafora, anadiploza, manjšalnice, okrasni pridevki, metonimija**
+    
+
+---
+
+## ✅ **Njega ni – Simon Gregorčič**
+
+### 1. Kdo je avtor?
+
+**Simon Gregorčič**, duhovnik, rojen 1844, najbolj znan kot avtor **Soči**, zaljubljen v **Dogomilo Milekovo**.
+
+### 2. Obnova pesmi.
+
+Dekle na vrtu da šopek fantu. Ta odide in se ne vrne. Dekle vene, hrepeni in žalostno čaka. Pesem je polna **žalovanja in hrepenenja**.
+
+### 3. Okoliščine?
+
+- Napisana v **semenišču**
+    
+- Izdana v **Zvonu (1870)**
+    
+
+### 4. Literarna vrsta?
+
+**Lirsko-epična ljubezenska pesem**
+
+### 5. Motiv in tema?
+
+- **Vodilni motiv:** fantov odhod
+    
+- **Motivi:** šopek, cvetje, ljubezen, žalost, petje, hrepenenje
+    
+
+### 6. Lirske prvine?
+
+- čustvovanje, žalovanje, hrepenenje, ljubezen
+    
+
+### 7. Epske prvine?
+
+- **Zgodba**, dogajalni prostor, lahko **obnovimo po kiticah**
+    
+
+### 8. Notranja zgradba?
+
+- **kvartina**, uporaba **manjšalnic, okrasnih pridevkov**, podoba **cvetja kot ljubezni**
+    
+
+### 9. Pesniška sredstva?
+
+- **Manjšalnice**: cvetica, deklica
+    
+- **Okrasni pridevki**: dete zalo, deva bleda
+    
+- **Simbolika**: cvetje = ljubezen
+    
+- **Retorično vprašanje**, **metonimija**, **ponavljanje**
