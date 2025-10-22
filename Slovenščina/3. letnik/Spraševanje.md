@@ -25,9 +25,6 @@ Vsak stavek je sestavljen iz stavčnih členov. Glavna sta **osebek** in **poved
 - Vprašamo se po njem z vsemi *vprašalnicami za sklanjanje **razen** z tistimi za **imenovalec***
 - Predmet izraža podatke o tem komu/čemu je nekaj **namenjeno** ali koga nekaj **prizadeva**
 - Lahko je sestavljen iz 1 polnopomenske besede ali večih
-- Vrste:
-	- **POLNOPOMENSKI** - spati, tekati
-	- **NEPOLNO POMENSKI** - oblike glagola biti(je, so...), modalni glagoli(želim, moram) in glagoli v nedoločniku
 
 ### Prislovno določilo
 - Dopolnjuje povedek z podatki kje, kdaj, zakaj, kako...
