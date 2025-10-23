@@ -1,8 +1,38 @@
 # ALGORITMI
 
+Definicija:
+`Algoritem je navodilo, s katerim rešujemo določen problem. Običajno je zapisan kot seznam korakov, ki nas pripeljejo do rešitve problema.`
+Algoritem lahko zapišemo na več načinov:
+- naravni jezik
+- grafično - diagram poteka
+- psevdokod
+- programski jezik
+Način na kateri zapišemo algoritem je odvisen od potreb. Recimo če bo računalnik izvajal algoritem ga bomo zapisali v programskem jeziku.
 
+Lastnosti algoritma:
+- pravilni algoritem mora pravilno rešiti problem - za določene vhodne podatke mora izračunati pravilne izhodne podatke
+- popolnost - vedno vrne rešitev problema če obstaja
+- razumljivost - izvajalec(človek, računalnik) ga mora enoumno razumeti
+- končnost - izvajanje se mora po določenem številu korakov končati(ne sme biti neskončen)
+- enoumnost - obstaja le en način interpretacije ukazov
+- determinizem - če sledimo ukazom, bomo vedno dosegli želeni rezultat
+- splošnosti - algoritem mora biti sposoben rešiti čim več problemov
 # PROGRAMSKI JEZIKI
+Programski jezik je umetni jezik, namenjen reševanju problemov z računalnikom. V programskem jeziku lahko napišemo navodila/algoritem, ki ga potem računalnik lahko izvede. 
+Program moramo pred izvajanjem prevesti v jezik ki ga računalnik razume - strojni jezik.
 
+Programskih jezikov je veliko, lahko jih delimo glede na 2 merili
+1. Po namembnosti:
+	- proceduralni
+	- objektni
+	- skriptni
+	- funkcijski
+	- spletni
+2. Kronološko
+	1. generacija: nižji jeziki - strojni jeziki
+	2. generacija: nižji jeziki - zbirni jeziki
+	3. generacija: višji jeziki - C++, Java, PHP
+	4. generacija: višji jeziki - SQL, Matlab
 
 # DIAGRAM POTEKA
 ## Spremenljivke, tekst, operatorji in računanje
@@ -43,8 +73,18 @@
 - označujeta kje se algoritem začne in konča
 ```mermaid
 flowchart TD
-	A([Start]) --> B([Konec])
+	A([Start])
+	B([Konec])
 ```
+### Smer poteka
+- Smer poteka v algoritmu označimo tako da posamezne bloke povežemo s puščicami
+```mermaid
+flowchart TD
+	A([Start]) --> B[naredi nekaj]
+	B --> C([Konec])
+```
+
+
 ### Vnos in izhod
 - Uporabimo ju ko želimo uporabniku za zaslon **izpisati neke informacije**, ali pa od njega **potrebujemo da nekaj vnese**
 #### Izhod
@@ -79,7 +119,7 @@ flowchart TD
 	A[x = x + 1]
 ```
 - Zadnji primer bi uporabili ko moramo nekaj šteti, vsakič ko pridemo do teka bloka se bo vrednost spremenljivke x povečala za ena, saj v spremenljivko x shranimo vrednost, trenutne spremenljivke x(preden shranimo novo vrednost) + 1. Recimo da je `x = 2`, potem ko izvedemo `x = x + 1`, bo diagram najprej preveril kaj je vrednost računa na desni strani enačaja. Ker je trenutno `x = 2` je vrednost računa 3 in bo v spremenljivko x shranil vrednost 3. Ko se ta blok ponovno izvede, vrednost x nebo več 2 ampak 3 in bo zato po izvedbi tega bloka `x = 4`
-### Izbira
+### Odločitev
 - V simbol za izbiro napišemo neko trditev ali pa kombinacijo trditev. Iz simbola pa povlečemo 2 puščici za 2 možni vejitvi - je trditev pravilna, ali pa če je nepravilna. Ti 2 puščici označimo z `DA` ali pa `NE`.
 ```mermaid
 flowchart TD
