@@ -60,7 +60,7 @@ Programskih jezikov je veliko, lahko jih delimo glede na 2 merili
 	x == 1 || x == 2 <- druga možnost zapisa z operatorjem
 	```
 - Med seboj lahko primerjamo spremenljivke, tekst in številke
-===IZOGIBAMO SE ZAPISU 1 < x < 5, ker je NEPREGLEDEN, namesto tega to zapišemo tako kot zgoraj x > 1 in x < 5!===
+**IZOGIBAMO SE ZAPISU 1 < x < 5, ker je NEPREGLEDEN, namesto tega to zapišemo tako kot zgoraj x > 1 in x < 5!**
 ### Računanje
 - pri računanju v diagramu poteka uporabimo malo drugačne simbole:
 	- seštevanje in odštevanje ostane enako
