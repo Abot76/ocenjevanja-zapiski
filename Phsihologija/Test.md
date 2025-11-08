@@ -24,7 +24,7 @@ Osebnost je **razmeroma trajna in edinstvena** celota duševnih, telesnih in ved
 	- sposobnosti
 	- telesne značilnosti
 ### Zavestno in nezavestno
-- zavesno - to kar je dostopno v vsakem trenutku
+- zavestno - to kar nam je dostopno v vsakem trenutku
 - nezavestno - procesi in vsebine ki niso dostopni zavesti, ampak vplivajo na naše doživljanje in vedenje
 
 # CILJI PSIHOLOGIJE
@@ -35,13 +35,13 @@ Osebnost je **razmeroma trajna in edinstvena** celota duševnih, telesnih in ved
 
 # TEMELJI OSEBNOSTNEGA RAZVOJA
 ## DEDNOST
-- ob združitvi spolnih celic se združi 23 parov kromosomov vsakega starša
-- na kromosomih so geni ki vsebujejo informacije za razvoj telesnih in duševnih lastnosti
-- geni delujejo kot potencial in hkrati omejitev za oblikovanje posamičnih lastnosti
+- Ob združitvi spolnih celic se DNK staršev med seboj združi
+- Na kromosomih so geni ki vsebujejo informacije za razvoj *telesnih in duševnih lastnosti*
+- Geni delujejo kot **potencial in hkrati omejitev** za oblikovanje posamičnih lastnosti
 ### Značilnosti telesno povezane z dednostjo
-- višina, teža, barva glasu...
+- višina, teža, barva las in oči...
 - krvni tlak, nivo vzburjenosti živčnega sistema
-- spomin, iq, razvoj govora, motnje v duševnem razvoju
+- spomin, IQ, razvoj govora, motnje v duševnem razvoju
 - socialna plašnost, ekstravertnost, tesnobnost, shizofrenija
 ## OKOLJE
 - V razvoju smo dolgo odvisni od drugih ljudi(staršev...) - nesposobni samostojnega življenja
