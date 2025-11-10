@@ -73,7 +73,7 @@
 
 
 ## MARIBORSKI PROGRAM
-- 25. 6. 1865
+- 25.6.1865
 - želijo obnovitev notranje Avstrije(Štajerska, koroška, kranjska in Goriška)
 - Andrej Ginspilez
 
@@ -262,3 +262,15 @@ Dokončana je južna železnica proge Dunaj - Trst
 - Generalna stavka, *krvava nedelja* -> Nikolaj 2. - oktobrski manifest, duma.
 
 # KATERE SO BILE KLJUČNE ZNAČILNOSTI VELIKE BRITANIJE IN FRANCIJE NA PREHODU IZ 19. V 20. STOLETJE
+## VELIKA BRITANIJA
+- Viktorijanska doba(kraljica Viktorija)
+- Boj Ircev za neodvisnost
+	- Daniel O'Connel(Irska avtonomija)
+	- Mlada Irska - radikalno združenje za dosego Irske avtonomije
+- Krompirjeva lakota
+- Irci dobijo samoupravo -1992 razglasijo samostojno Irsko(en del še vedno ostane pod angleško oblastjo)
+
+## FRANCIJA
+- 2. republika - Luis Napoleon
+- Državni udar
+- cesarstvo - bonapartizem
