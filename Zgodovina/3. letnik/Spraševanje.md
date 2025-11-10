@@ -149,8 +149,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 - Zadruge so skrbele za organizirano prodajo *izdelkov*, *pridelkov* in *izobraževanje kmetov*
 - Zadružne posojilnice, hranilnice so dajale posojila z nizkimi obrestmi in so ljudi na tak način zavarovala pred oderuštvi(ko so ljudje na črno nekomu posodili denar z velikimi obrestmi in če nisi odplačal so te hudo kaznovali)
 
-[[SLIKA]]
-
+![tabela](slika.jpg)
 
 ## MIGRACIJE
 - Največ na Kranjskem, spodnji Štajerski in Koroškem
@@ -263,11 +262,11 @@ Dokončana je južna železnica proge Dunaj - Trst
 
 # KATERE SO BILE KLJUČNE ZNAČILNOSTI VELIKE BRITANIJE IN FRANCIJE NA PREHODU IZ 19. V 20. STOLETJE
 ## VELIKA BRITANIJA
-- Viktorijanska doba(kraljica Viktorija)
+- *Viktorijanska doba*(kraljica Viktorija)
 - Boj Ircev za neodvisnost
 	- Daniel O'Connel(Irska avtonomija)
 	- Mlada Irska - radikalno združenje za dosego Irske avtonomije
-- Krompirjeva lakota
+- *Krompirjeva lakota*
 - Irci dobijo samoupravo -1992 razglasijo samostojno Irsko(en del še vedno ostane pod angleško oblastjo)
 
 ## FRANCIJA
@@ -277,7 +276,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 - vojna s Prusijo
 
 ### Pariška komuna
-V času Pariške komune so želeli z reformami izboljšati življenje ljudi(splošna oborožitev, ločitev cerkve in države in enakopravnost žensk), vse skupaj je bilo krvavo zatrto v krvavem tednu, kjer so obračunali z komunardi
+V času Pariške komune so želeli z reformami *izboljšati življenje* ljudi(splošna oborožitev, ločitev cerkve in države in enakopravnost žensk), vse skupaj je bilo krvavo zatrto v krvavem tednu, kjer so obračunali z **komunardi**
 
 ## DREYFUSOVA AFERA
 
@@ -298,7 +297,7 @@ V času Pariške komune so želeli z reformami izboljšati življenje ljudi(splo
 # BERLINSKI KONGRES
 - 1878 Bismarck skliče Berlinski kongres
 - Revidirajo Sanstefanski mir:
-	- Srbija, Črna gora in Romunija dobijo neodvisnost 
+	- Srbija, Črna gora in Romunija dobijo *neodvisnost* 
 	- Ustanovitev samostojne Bulgarske države
 	- Avstro Ogrska dobi mandat za začasno upravljanje BiH
 	- Odnosi med Rusijo in Nemčijo se zaostrijo
@@ -312,25 +311,34 @@ V času Pariške komune so želeli z reformami izboljšati življenje ljudi(splo
 ## PRISRČNA ZVEZA
 - Velika Britanija
 - Francija
-- **zveza gospodarskih razlogov
+- **Zveza gospodarskih razlogov
 
 # 1. SVETOVNA VOJNA
 ## VZROKI IN POVOD
-Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja, imperializem, kolonializem, nacionalizem, militarizem, boj za gospodarsko prevlado, sistem zavezništev, tajna diplomacija, napačne politične odločitve in Balkanski sod smodnika
+Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja:
+- imperializem
+- kolonializem 
+- nacionalizem 
+- militarizem
+- boj za gospodarsko prevlado
+- sistem zavezništev
+- tajna diplomacija
+- napačne politične odločitve 
+- Balkanski sod smodnika
 
 ### Kolonializem
 - Poceni surovine in delovna sila
-- razkazovanje moči
-- občutek superiornosti
-- ohranjanje ravnotežja sil
+- Razkazovanje moči
+- Občutek superiornosti
+- Ohranjanje ravnotežja sil
 
 ### Balkanski sod smodnika
 1. Balkanska vojna 1992
-	- Srbija + Bolgarija + Grčija + Črna gora vs. Turčija
+	- Srbija, Bolgarija, Grčija in Črna gora vs. Turčija
 2. Balkanska vojna 1913
 	- Romunija + Grčija + Srbija + Črna gora vs. Bolgarija
 
 ## POVOD
 - Atentat srbskega mladeniča Gavrila Principa na avstrijskega prestolonaslednika Franca Ferdinanda v Sarajevu na Vidov dan 28.6.1914
 - Odločitev o vojni sprejmeta Nemčija in Avstrija po pogovorih
-- AO je postavila srbiji ultimat v katerem je sprejela vse točke razen dveh, zato je AO napovedala vojno
+- Avstro Ogrska je postavila Srbiji ultimat v katerem je sprejela vse točke razen dveh, zato je Avstro Ogrska napovedala vojno
