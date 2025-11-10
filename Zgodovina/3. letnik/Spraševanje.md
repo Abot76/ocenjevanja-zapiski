@@ -274,3 +274,63 @@ Dokončana je južna železnica proge Dunaj - Trst
 - 2. republika - Luis Napoleon
 - Državni udar
 - cesarstvo - bonapartizem
+- vojna s Prusijo
+
+### Pariška komuna
+V času Pariške komune so želeli z reformami izboljšati življenje ljudi(splošna oborožitev, ločitev cerkve in države in enakopravnost žensk), vse skupaj je bilo krvavo zatrto v krvavem tednu, kjer so obračunali z komunardi
+
+## DREYFUSOVA AFERA
+
+# KAKO SE JE BALKANSKI POLOTOK ZNAŠEL MED INTERESI VZHODA IN ZAHODA
+## SRBIJA
+- Družina Obrenović je bila povezana z Avstro Ogrsko
+- 1903 - Peter Karađorđević -> povezava Z Rusijo - Velika Srbija
+## BiH
+- 1878 - protektorat Avstro Ogrske
+- Verska in nacionalna nasprotja
+- Mlada Bosna - povzročijo atentat
+## MAKEDONIJA
+- Je interes Srbije, Bolgarije in Grčije
+- VMRO - boj proti Turškim oblasti
+- 1903 - Ilidenska vstaja
+
+
+# BERLINSKI KONGRES
+- 1878 Bismarck skliče Berlinski kongres
+- Revidirajo Sanstefanski mir:
+	- Srbija, Črna gora in Romunija dobijo neodvisnost 
+	- Ustanovitev samostojne Bulgarske države
+	- Avstro Ogrska dobi mandat za začasno upravljanje BiH
+	- Odnosi med Rusijo in Nemčijo se zaostrijo
+# ZAVEZNIŠTVA (PRED 1. SVETOVNO VOJNO)
+## TROJNA ZVEZA
+- Nemčija
+- Avstro Ogrska
+- Italija
+- **Tajna zaveza**
+
+## PRISRČNA ZVEZA
+- Velika Britanija
+- Francija
+- **zveza gospodarskih razlogov
+
+# 1. SVETOVNA VOJNA
+## VZROKI IN POVOD
+Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja, imperializem, kolonializem, nacionalizem, militarizem, boj za gospodarsko prevlado, sistem zavezništev, tajna diplomacija, napačne politične odločitve in Balkanski sod smodnika
+
+### Kolonializem
+- Poceni surovine in delovna sila
+- razkazovanje moči
+- občutek superiornosti
+- ohranjanje ravnotežja sil
+
+### Balkanski sod smodnika
+1. Balkanska vojna 1992
+	- Srbija + Bolgarija + Grčija + Črna gora vs. Turčija
+2. Balkanska vojna 1913
+	- Romunija + Grčija + Srbija + Črna gora vs. Bolgarija
+
+## POVOD
+- Atentat srbskega mladeniča Gavrila Principa na avstrijskega prestolonaslednika Franca Ferdinanda v Sarajevu na Vidov dan 28.6.1914
+- Odločitev o vojni sprejmeta Nemčija in Avstrija po pogovorih
+- AO je postavila srbiji ultimat v katerem je sprejela vse točke razen dveh, zato je AO napovedala vojno
