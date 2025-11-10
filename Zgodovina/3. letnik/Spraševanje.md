@@ -185,3 +185,80 @@ Dokončana je južna železnica proge Dunaj - Trst
 - Federativna ureditev
 - Navidezno liberalna ureditev
 - 41 milijonov prebivalcev -> pojavljajo se nacionalna in verska nasprotja
+
+# KAKO JE POTEKALA ZDRUŽITEV ITALIJE
+## NACIONALNE IDEJE
+- Italija je bila razdeljena na mnogo državic - ni imela enotnosti
+- Zaradi industrijske revolucije in gospodarskega razvoja so se želeli združiti
+- Ustanovi se tajno društvo **KARBONARJI** in organizacija **MLADA ITALIJA**
+
+## DE CAVOUR
+- 1852 ministrski predsednik
+- Modernizira kraljestvo -> tuj kapital
+- Zavzema se za pregon Avstrije in severnega dela A. polotoka
+- Zavezništvo z Napoleonom 3.
+
+## BITKA ZA MAGENTO
+- 4.6.1859
+- Prvič uporabijo železnico v vojaške namene
+- Piemont s pomočjo Francije premaga Avstrijsko vojsko
+
+## BITKA PRI SOLFERINU
+- 24.6.1859
+- Krvava bitka - ogromno mrtvih in ranjenih vojakov
+- Avstrijci priznajo poraz
+- *Henri Durant* je zaradi te bitke dobil idejo za **rdeči križ**
+
+## MIR V VILLETRANCU
+- Z Mirom v Villetrancu so s Francom Jožetom podpisali mirovno pogodbo
+- Avstrija se je morala odpovedati *Lambardiji*, obdrži pa *Benečijo*(obe sta pomembni za Italijo)
+- Cavour odstopi kot predsednik vlade
+- Stari vladarji se vrnejo na svoje položaje
+
+## GARIBALDI
+- Ker združenje Italije ni bilo izvedeno, je iz kraljestva obeh Sicilij z združevanjem pričel **Garibaldi**
+- Garibaldi je uspel združiti Italijo v kraljevino(1861-1946)
+- Kralj je postal **Viktor Emanuel 2.**
+- Garibaldi je kmalu izvedel pohod na Rim in priključil Italiji še **Benečijo** ter **Rim** postavil za **glavno mesto**
+- Status Vatikana je kasneje uredil šele Musolini
+
+# NASTANEK AVSTRO OGRSKE
+- Z oktobrsko diplomo so Ogrski vrnili ustavni položaj kakšnega je imela pred revolucijo
+- Februarska ustava je monarhijo spremenila v centralistično urejeno državo v nemško prevlado(centralizem je isto kot germanizacija)
+- Leta 1867 uvedejo **dualizem**(2 državi združeni v 1)
+- Nastane zveza 2 suverenih držav v isti monarhiji
+- Vladala sta Franc Jožef(avstrijski cesar) in ogrski kralj
+- Imeli so skupno zunanjo, obrambno in finančno politiko(Avstrija 70% in Madžarska 30% skupnih stroškov)
+- Notranja organizacija vsakega dela je bila odločena z ustavo(vsak je imel svoj parlament)
+
+## NACIONALNI PROBLEMI
+- Po podpisu pogodbe so se ostali narodi počutili ogrožene in zapostavljene
+
+## DECEMBRSKA USTAVA
+- Ustava Avstro Ogrske je bila **DECEMBRSKA USTAVA**
+	- Uvede nekatere človekove pravice
+	- Omogoči ustanavljanje društev in taborov
+	- Enakost državljanov pred zakonom in svoboda veroizpovedi
+	- Splošna šolska obveza od 6. do 14. leta
+	- Enakopravnost narodov in jezikov - **ni se upoštevala**
+
+
+# KAKO SE JE SPREMEMBAM PRILAGAJALA CARSKA RUSIJA
+- Bila je avtokratska država - strog režim
+
+## KRIMSKA VOJNA (1853-1856)
+- Rusija vs. Osmanski državi, Franciji, Veliki Britaniji in Sardinskemu kraljestvu
+- Avstrijsko cesarstvo jih ne premaga
+- **PORAZ RUSIJE**
+
+## ALEKSANDER 2.
+- Uvajanje liberalnih idej -> osebna svoboda kmetom, reforme šolstva, ureditev financ, reforme vojske, modernizacija gospodarstva in gradnja železnice
+- 1881 se zgodi atentat nanj -> rešitev Rusije je socialistična in egalitarna družba
+
+## ALEKSANDER 3.
+- Krepitev nadzora, cenzura, večja vloga plemstva, rusifikacija
+
+## REVOLUCIJA 1905
+- Generalna stavka, *krvava nedelja* -> Nikolaj 2. - oktobrski manifest, duma.
+
+# KATERE SO BILE KLJUČNE ZNAČILNOSTI VELIKE BRITANIJE IN FRANCIJE NA PREHODU IZ 19. V 20. STOLETJE
