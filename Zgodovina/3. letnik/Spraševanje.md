@@ -127,3 +127,61 @@
 # PREPRODOVCI
 - Preprodovci so bili člani mladinskega prevratniškega gibanja, zbrani okoli mesečnika *Preporod*
 - zavzemali so se za nasilno razbitje države in povezovanje s Srbijo
+
+# GOSPODARSKI RAZVOJ V SLOVENSKIH DRŽAVAH PO LETU 1848
+## ZAČETKI INDUSTRIALIZACIJA
+V Cukrarni v Ljubljani se pojavi 1. parni stroj
+
+## ŽELEZARSTVO
+Najpomembnejša in najmodernejša železarna je bila v *Prevaljah*(Brata Rosthorn) - izdelovala je železniške tračnice
+
+## POMEMBNEJŠI PREMOGOVNIKI
+- Leše, 
+- Trbovlje
+- Zreče
+
+## DRUGA POLOVICA 19. STOLETJA
+Dokončana je južna železnica proge Dunaj - Trst
+
+## DELNIŠKE DRUŽBE V 19. STOLETJU
+- KID - **K**ranjska **I**ndustrijska **D**ružba - železarstvo
+- TPD - **T**rboveljska **P**remogokopna **D**rzužba - premogovništvo
+- Zadruge so skrbele za organizirano prodajo *izdelkov*, *pridelkov* in *izobraževanje kmetov*
+- Zadružne posojilnice, hranilnice so dajale posojila z nizkimi obrestmi in so ljudi na tak način zavarovala pred oderuštvi(ko so ljudje na črno nekomu posodili denar z velikimi obrestmi in če nisi odplačal so te hudo kaznovali)
+
+[[SLIKA]]
+
+
+## MIGRACIJE
+- Največ na Kranjskem, spodnji Štajerski in Koroškem
+- Odhajali so v Argentino, Kanado in Nemčijo z željo po boljšem življenju
+
+### Ženske oblike izseljevanja
+- V Egipt, kjer so delale kot dojilke(rekli so jim aleksandrijke) in služkinje
+- V New York in Chicago - rekli so jim slamnikarice
+
+# KAKO JE POTEKALA ZDRUŽITEV NEMČIJE
+- Otto von **Bismarck** postane *pruski* kancler
+- Imel je vzdevek *železni kancler* 
+- Njegova cilja sta bila oslabitev Avstrije in združitev Nemčije
+
+===POGLEJ SI SLIKO ZEMLJEVIDA Z ŠTEVILKAMI V UČENIKU O NEMŠKO-DANSKI VOJNI===
+
+1. Avstrijsko cesarstvo zavzame *Schleswig in Holstein* - 1864
+	- Danska vs. Prusija in Avstrijsko cesarstvo
+2. Avstrijsko-pruska vojna(7 tedenjska vojna) - 1866
+	- Kraljevina Italija dobi *Benečijo*
+	- Prusija dobi *Schleswig* in *Holstein*
+	- Oblikovana je Severnonemška zveza
+	- Prusija in Italija vs. Avstrijsko cesarstvo
+3. Francosko-pruska vojna - 1870-1871
+	- Ustanovljeno je **Nemško cesarstvo**
+	- Francija izgubi **Alzacijo** in **Lorenco**
+	- Francija vs. Prusija
+
+## NEMŠKO CESARSTVO / RAJH
+- Bismarck ostane kancler do 1890
+- 22 držav + 3 svobodna mesta
+- Federativna ureditev
+- Navidezno liberalna ureditev
+- 41 milijonov prebivalcev -> pojavljajo se nacionalna in verska nasprotja
