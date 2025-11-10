@@ -311,7 +311,7 @@ V času Pariške komune so želeli z reformami *izboljšati življenje* ljudi(sp
 ## PRISRČNA ZVEZA
 - Velika Britanija
 - Francija
-- **Zveza gospodarskih razlogov
+- **Zveza gospodarskih razlogov**
 
 # 1. SVETOVNA VOJNA
 ## VZROKI IN POVOD
