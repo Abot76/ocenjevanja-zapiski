@@ -342,3 +342,67 @@ Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja:
 - Atentat srbskega mladeniča Gavrila Principa na avstrijskega prestolonaslednika Franca Ferdinanda v Sarajevu na Vidov dan 28.6.1914
 - Odločitev o vojni sprejmeta Nemčija in Avstrija po pogovorih
 - Avstro Ogrska je postavila Srbiji ultimat v katerem je sprejela vse točke razen dveh, zato je Avstro Ogrska napovedala vojno
+
+## VSTOP DRŽAV V VOJNO
+
+| Antanta          | Centralne sile | Nevtralne |
+| ---------------- | -------------- | --------- |
+| Srbija           | Avstro Ogrska  | Švica     |
+| Rusija           | Nemčija        | Švedska   |
+| Francija         | 1915 Turčija   | Španija   |
+| Velika Britanija | 1915 Bulgarija |           |
+| 1915 Italija     |                |           |
+| 1917 ZDA         |                |           |
+
+# BOJIŠČA 1. SVETOVNE VOJNE
+## BALKANSKO BOJIŠČE
+Bojišče prvih bitk
+Avstro Ogrska je prepričana da je Srbija oslabljena zaradi vojn na Balkanu
+
+- Bitka na Ceru(Srbska vojska AO zada uničujoč poraz)
+- Bitka na Kolobari(Srbska vojska premaga AO)
+- Bitka na Drini(Savi in Donavi) - nemoč srbske vojske zaradi slabše opremljenosti in oboroženosti
+- Salonska fronta(zavezniška front proti centralnim silam)
+
+## ZAHODNO BOJIŠČE
+- Območje najhujših bitk v 1. SV
+- Schlieffnov načrt - **Blitzkrieg**
+- Nov način bojevanja v jarkih - **pozicijsko bojevanje**
+
+
+- Bitka na Marni - francoskim in britanskim vojakom uspe odbiti nemški napad
+- Bitka za Ypres (kemično orožje)
+- Bitka za Verdun (topniško obstreljevanje)
+- Bitka na Somi (tanki, najbolj krvava - v 1 dnevu VB izgubi 57k vojakov)
+
+## 1917 VSTOP ZDA V VOJNO
+- Vstopijo zaradi gospodarskih interesov
+- Imeli so večji vložek posojil in zato tudi večji interes za zmago
+- Nemška podmorniška vojna(Lusitania)
+
+## NOV NAČIN BOJEVANJA V JARKIH
+Neprebojna linija rovov, bodeče žice, topniška in strojniška gnezd
+- Zavezniška stran - 1,6 mio
+- nemška - 850k
+
+## VZHODNO BOJIŠČE
+- Prevzelo je glavno težo bojevanja
+- Prevzame ga AO (NEM na severu, AO na jugu)
+- Je najdaljša fronta 1. SV(premikali so se za več 100km)
+- Odprti način bojevanja
+
+- Bitka pri Tonnenbergu
+- Bitka pri Mazurnih jezerih
+
+## AVSTRIJSKO ITALIJANSKO BOJIŠČE
+- **Največji spopad** v *gorati pokrajini* v zgodovini
+- Največji spopad na slovenskih tleh
+- Topniško obstreljevanje
+
+- **SOŠKA FRONTA** - 12. bitka(čudež pri Kobaridu)
+
+## VOJNA V KOLONIJAH
+- Velika Britanija naredi pomorsko blokado Nemčiji
+- Podmorniške akcije in nastavljanje min
+- 1.5.1915 Lusitania
+- 31.5. in 1.6. bitka pri Sutlandiji
