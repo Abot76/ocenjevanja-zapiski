@@ -101,7 +101,7 @@
 	- govorili so o gospodarskih, socialnih in lokalnih vprašanjih
 - **pomen**: krepila se je slovenščina, narodna zavest in politične zahteve
 
-# TAFARJEVA VLADA
+# TAFFEJEVA VLADA
 - OBDOBJE SLOGE
 - težko obdobje za Slovence - povečan menški pritisk(premeščanje uradnikov)
 - slabe razmere za uveljavljanje političnih zahtev
