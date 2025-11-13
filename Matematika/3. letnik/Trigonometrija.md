@@ -88,7 +88,7 @@ $\cos{\alpha} = \cos{(360° - \beta)} = \cos{\beta}$
 ## PRIMERI
 $\frac{\pi}{2} = \frac{180°}{2} = 90°$
 
-
+$\frac{53 \pi}{4} = 13\frac{1}{4}\pi$ -> odštejemo $2\pi$ dokler ni vrednost manj kot $2\pi$(zaradi periodičnosti) torej dobimo $1\frac{1}{4}\pi$ kar izrazimo kot $1\pi + \frac{1}{4}\pi$, potem pa izračunamo samo sin/cos od $\frac{1}{4}\pi$ ker je $\pi = 180°$ in je prejšnji izraz enako kot $180° + 45°$.
 
 
 
