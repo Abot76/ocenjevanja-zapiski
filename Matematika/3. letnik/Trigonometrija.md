@@ -99,7 +99,7 @@ $\sin^{2}\left(\alpha\right) + \cos^{2}\left(\alpha\right) = 1$
 
 $\sin{(\alpha + \beta)} = \sin{\alpha} * \cos{\beta} + \sin{\beta} * \cos{\alpha}$
 
-$\sin{(\alpha + \beta)} = \sin{\alpha} * \cos{\beta} + \sin{\beta} * \cos{\alpha}$
+$\sin{(\alpha - \beta)} = \sin{\alpha} * \cos{\beta} + \sin{\beta} * \cos{\alpha}$
 
 
 $\cos{(\alpha + \beta)} = \cos{\alpha} * \cos{\beta} - \sin{\alpha} * \sin{\beta}$
@@ -115,3 +115,8 @@ $\cot{\alpha} = \frac{\cos{\alpha}}{\sin{\alpha}}$
 $\cos{\frac{\alpha}{2}} = \sqrt{\frac{1 + \cos{\alpha}}{2}}$
 
 $\sin{\frac{\alpha}{2}} = \sqrt{\frac{1 - \cos{\alpha}}{2}}$
+
+
+$\sin{(2\alpha)} = 2 * sin{\alpha} * \cos{\alpha}$
+
+$\cos{(2\alpha)} = \cos^{2}\left(\alpha\right) - \sin^{2}\left(\alpha\right)$
