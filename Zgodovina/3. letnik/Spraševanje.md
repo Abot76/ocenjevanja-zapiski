@@ -1,26 +1,30 @@
 # ZAČETKI SLOVENSKEGA MEDNARODNEGA GIBANJA
 - Reforme Marije Terezije in Jožefa 2.
-- Najpomembnejši čebelar tega časa je Anton Janša(čebelnjak v Brezovici)
+- Najpomembnejši čebelar tega časa je *Anton Janša*(čebelnjak v Brezovici)
 
 ## ZAČETKI NARODNEGA PRERODA
 - obdobje pred marčnim obdobjem
 - **Pohlinov krožek**(redovniki, kranjska gramatika, pisanice, Pohlinov trojezični slovar)
 - **Zoisov krožek** - Žiga Zois(bogat in na vozičku)
 - Ostali: 
-	- Baltazar Haquet - naravoslovec
-	- Jurij Japelj - jezikoslovec, prevajalec
-	- Valentin Vodnik - kuharske bukve, babištvo
-	- Anton Tomaž Linhart - Županova micka, Ta veseli dan ali Matiček se ženi
-	- Jernej Kopitar - 1. slovenska znanstvena slovnica
+	- *Baltazar Haquet* - naravoslovec
+	- *Jurij Japelj* - jezikoslovec, prevajalec
+	- *Valentin Vodnik* - kuharske bukve, babištvo
+	- *Anton Tomaž Linhart* - Županova micka, Ta veseli dan ali Matiček se ženi
+	- *Jernej Kopitar* - 1. slovenska znanstvena slovnica
 
 ## ILIRSKE PROVINCE
 - Dobimo univerzo ki po razpadu ostane
+- Slovenščina v šolah
+- Italjanščina samo na uradih
+- Dobijo človekove pravice
+
 
 ## KRALJEVINA ILIRIJA (1816 - 1849)
 - Izoblikujeta se 2 tabora
 ### Konservativni
 - **kmetijske in rokodelske novice** - 1843 - 1902 v Ljubljani
-- Bleiweis
+- *Bleiweis*
 - Poučevanje kmetov in rokodelcev
 - večino časa je to edini slovenski časopis
 - pozivajo k šolanju in napredku
@@ -29,8 +33,8 @@
 - konča **črkarsko vojno**
 
 ### Liberalni
-- **Kranjska čebelica** - 1830 - 1834 + 1848 v Ljubljani
-- Kastelic
+- **Kranjska čbelica** - 1830 - 1834 + 1848 v Ljubljani
+- *Kastelic*
 - Razširjanje slovenščine med izobraženci
 - podpira ga večina takratnih pesnikov(Prešeren, Čop)
 - imeli so probleme s cenzuro
@@ -48,7 +52,7 @@
 - sestavljajo ga 4 glavni slovanski jeziki(ruski, češki, poljski in ilirski)
 - Slovenščina bi naj bila jezik "preprostega ljudstva"
 - pomembna oseba tistega časa je bil *Ljudevit Gaj*
-- privrženca pa sta bila: Stanko Vraz in Matija Major Ziljski
+- privrženca pa sta bila: **Stanko Vraz** in **Matija Major Ziljski**
 - nasprotniki pa: Čop, Prešeren, Bleiweis in Slomšek
 
 
@@ -74,20 +78,20 @@
 
 ## MARIBORSKI PROGRAM
 - 25.6.1865
-- želijo obnovitev notranje Avstrije(Štajerska, koroška, kranjska in Goriška)
+- želijo obnovitev notranje Avstrije(Štajerska, koroška, kranjska in Goriška - pride kasneje)
 - Andrej Ginspilez
 
 # POLITIČNI SMERI
 ## MLADOSLOVENCI
-- Fran Levstik, Josip Jurčič in Josip Vošnjak
+- Fran *Levstik*, Josip *Jurčič* in Josip *Vošnjak*
 - bili so liberalni/napredni
-- geslo: **vse za domovinsko omiko in svobodo**
+- geslo: **vse za domovino, omiko in svobodo**
 - organizirali so tabore
 - izdajali lasten časopis: *slovenski narod*
 ## STAROSLOVENCI
 - Janez Bleiweis
 - bili so konzervativni
-- geslo: **vse za vero, dom in cesarja**
+- geslo: **vse za vero, dom in cesarja**, **delu, čast in slava**
 - zagovarjali so *mariborski program*
 - izdajali so lasten časopis: *novice*
 
@@ -101,10 +105,10 @@
 	- govorili so o gospodarskih, socialnih in lokalnih vprašanjih
 - **pomen**: krepila se je slovenščina, narodna zavest in politične zahteve
 
-# TAFFEJEVA VLADA
+# TAFARJEVA VLADA
 - OBDOBJE SLOGE
-- težko obdobje za Slovence - povečan menški pritisk(premeščanje uradnikov)
-- slabe razmere za uveljavljanje političnih zahtev
+- težko obdobje za Slovence - *povečan nemški pritisk*(premeščanje uradnikov)
+- *slabe razmere* za uveljavljanje političnih zahtev
 
 # POLITIČNE STRANKE
 ## LIBERALNI TABOR
@@ -116,6 +120,15 @@
 - od 1875 - 1890 sta sodelovala - zato ta leta imenujemo leta **sloge**
 - zaradi rasti industrije se je v zadnjih desetletjih 19. stoletja povečalo število delavcev in razvijati se je začelo **delavsko gibanje**(delavska društva in delavski časopisi)
 **UČB str. 176 - POLITIČNE STRANKE**
+
+## STRANKE
+
+| Slovenska ljudska stranka                                                       | Narodno napredna stranka                   | Jugoslovanska socialdemokratična stranka                                 |
+| ------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------ |
+| kmetje, meščani                                                                 | bogati meščani, izobraženci, veliki kmetje | delavci                                                                  |
+| izboljšat položaj kmeta, volilna pravica za vse moške, želijo da ima vera vpliv | Zedinjenja slovenija                       | socialistična družba, borijo za pravice(8 urni delavnik, proste nedelje) |
+| telovadno društvo: Orel                                                         | telovadno društvo: Sokol                   | telovadno društvo: Svoboda                                               |
+
 
 # TRIALIZEM
 - idea o trializmu - povezovanje južnoslovanskih narodov v monarhiji(slovenci, hrvati in srbi)
@@ -145,7 +158,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 
 ## DELNIŠKE DRUŽBE V 19. STOLETJU
 - KID - **K**ranjska **I**ndustrijska **D**ružba - železarstvo
-- TPD - **T**rboveljska **P**remogokopna **D**rzužba - premogovništvo
+- TPD - **T**rboveljska **P**remogokopna **D**ružba - premogovništvo
 - Zadruge so skrbele za organizirano prodajo *izdelkov*, *pridelkov* in *izobraževanje kmetov*
 - Zadružne posojilnice, hranilnice so dajale posojila z nizkimi obrestmi in so ljudi na tak način zavarovala pred oderuštvi(ko so ljudje na črno nekomu posodili denar z velikimi obrestmi in če nisi odplačal so te hudo kaznovali)
 
@@ -153,7 +166,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 
 ## MIGRACIJE
 - Največ na Kranjskem, spodnji Štajerski in Koroškem
-- Odhajali so v Argentino, Kanado in Nemčijo z željo po boljšem življenju
+- Odhajali so v ZDA, Argentino, Kanado in Nemčijo z željo po boljšem življenju
 
 ### Ženske oblike izseljevanja
 - V Egipt, kjer so delale kot dojilke(rekli so jim aleksandrijke) in služkinje
@@ -168,14 +181,14 @@ Dokončana je južna železnica proge Dunaj - Trst
 
 1. Avstrijsko cesarstvo zavzame *Schleswig in Holstein* - 1864
 	- Danska vs. Prusija in Avstrijsko cesarstvo
-2. Avstrijsko-pruska vojna(7 tedenjska vojna) - 1866
+2. Avstrijsko-pruska vojna - 1866
 	- Kraljevina Italija dobi *Benečijo*
 	- Prusija dobi *Schleswig* in *Holstein*
-	- Oblikovana je Severnonemška zveza
+	- Oblikovana je **Severnonemška zveza**
 	- Prusija in Italija vs. Avstrijsko cesarstvo
 3. Francosko-pruska vojna - 1870-1871
 	- Ustanovljeno je **Nemško cesarstvo**
-	- Francija izgubi **Alzacijo** in **Lorenco**
+	- Francija izgubi **Alzacijo** in **Loreno**
 	- Francija vs. Prusija
 
 ## NEMŠKO CESARSTVO / RAJH
@@ -188,7 +201,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 # KAKO JE POTEKALA ZDRUŽITEV ITALIJE
 ## NACIONALNE IDEJE
 - Italija je bila razdeljena na mnogo državic - ni imela enotnosti
-- Zaradi industrijske revolucije in gospodarskega razvoja so se želeli združiti
+- Zaradi industrijske revolucije in **gospodarskega razvoja** so se želeli združiti
 - Ustanovi se tajno društvo **KARBONARJI** in organizacija **MLADA ITALIJA**
 
 ## DE CAVOUR
@@ -196,6 +209,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 - Modernizira kraljestvo -> tuj kapital
 - Zavzema se za pregon Avstrije in severnega dela A. polotoka
 - Zavezništvo z Napoleonom 3.
+- Prihaja iz **Piemonta** - Sardinija
 
 ## BITKA ZA MAGENTO
 - 4.6.1859
@@ -205,13 +219,13 @@ Dokončana je južna železnica proge Dunaj - Trst
 ## BITKA PRI SOLFERINU
 - 24.6.1859
 - Krvava bitka - ogromno mrtvih in ranjenih vojakov
-- Avstrijci priznajo poraz
+- **Avstrijci priznajo poraz**
 - *Henri Durant* je zaradi te bitke dobil idejo za **rdeči križ**
 
 ## MIR V VILLETRANCU
 - Z Mirom v Villetrancu so s Francom Jožetom podpisali mirovno pogodbo
 - Avstrija se je morala odpovedati *Lambardiji*, obdrži pa *Benečijo*(obe sta pomembni za Italijo)
-- Cavour odstopi kot predsednik vlade
+- **Cavour odstopi kot predsednik vlade**
 - Stari vladarji se vrnejo na svoje položaje
 
 ## GARIBALDI
@@ -222,11 +236,11 @@ Dokončana je južna železnica proge Dunaj - Trst
 - Status Vatikana je kasneje uredil šele Musolini
 
 # NASTANEK AVSTRO OGRSKE
-- Z oktobrsko diplomo so Ogrski vrnili ustavni položaj kakšnega je imela pred revolucijo
-- Februarska ustava je monarhijo spremenila v centralistično urejeno državo v nemško prevlado(centralizem je isto kot germanizacija)
+- Z *oktobrsko diplomo* so Ogrski vrnili ustavni položaj kakšnega je imela pred revolucijo
+- *Februarska ustava* je monarhijo spremenila v centralistično urejeno državo v avstrijsko prevlado(centralizem je isto kot germanizacija)
 - Leta 1867 uvedejo **dualizem**(2 državi združeni v 1)
 - Nastane zveza 2 suverenih držav v isti monarhiji
-- Vladala sta Franc Jožef(avstrijski cesar) in ogrski kralj
+- Vladal je Franc Jožef (avstrijski cesar in ogrski kralj)
 - Imeli so skupno zunanjo, obrambno in finančno politiko(Avstrija 70% in Madžarska 30% skupnih stroškov)
 - Notranja organizacija vsakega dela je bila odločena z ustavo(vsak je imel svoj parlament)
 
@@ -247,7 +261,7 @@ Dokončana je južna železnica proge Dunaj - Trst
 
 ## KRIMSKA VOJNA (1853-1856)
 - Rusija vs. Osmanski državi, Franciji, Veliki Britaniji in Sardinskemu kraljestvu
-- Avstrijsko cesarstvo jih ne premaga
+- Avstrijsko cesarstvo jim ne pomaga
 - **PORAZ RUSIJE**
 
 ## ALEKSANDER 2.
@@ -264,10 +278,9 @@ Dokončana je južna železnica proge Dunaj - Trst
 ## VELIKA BRITANIJA
 - *Viktorijanska doba*(kraljica Viktorija)
 - Boj Ircev za neodvisnost
-	- Daniel O'Connel(Irska avtonomija)
 	- Mlada Irska - radikalno združenje za dosego Irske avtonomije
 - *Krompirjeva lakota*
-- Irci dobijo samoupravo -1992 razglasijo samostojno Irsko(en del še vedno ostane pod angleško oblastjo)
+- Irci dobijo samoupravo - razglasijo samostojno Irsko(en del še vedno ostane pod angleško oblastjo)
 
 ## FRANCIJA
 - 2. republika - Luis Napoleon
@@ -285,13 +298,12 @@ V času Pariške komune so želeli z reformami *izboljšati življenje* ljudi(sp
 - Družina Obrenović je bila povezana z Avstro Ogrsko
 - 1903 - Peter Karađorđević -> povezava Z Rusijo - Velika Srbija
 ## BiH
-- 1878 - protektorat Avstro Ogrske
-- Verska in nacionalna nasprotja
+- **protektorat Avstro Ogrske**
+- Verska in nacionalna nasprotja kot v Nemčiji
 - Mlada Bosna - povzročijo atentat
 ## MAKEDONIJA
 - Je interes Srbije, Bolgarije in Grčije
 - VMRO - boj proti Turškim oblasti
-- 1903 - Ilidenska vstaja
 
 
 # BERLINSKI KONGRES
@@ -311,20 +323,20 @@ V času Pariške komune so želeli z reformami *izboljšati življenje* ljudi(sp
 ## PRISRČNA ZVEZA
 - Velika Britanija
 - Francija
-- **Zveza gospodarskih razlogov**
+- **Zveza gospodarskih razlogov
 
 # 1. SVETOVNA VOJNA
 ## VZROKI IN POVOD
 Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja:
-- imperializem
-- kolonializem 
+- **imperializem**
+- **kolonializem** 
 - nacionalizem 
-- militarizem
+- **militarizem**
 - boj za gospodarsko prevlado
 - sistem zavezništev
-- tajna diplomacija
+- **tajna diplomacija**
 - napačne politične odločitve 
-- Balkanski sod smodnika
+- **Balkanski sod smodnika**
 
 ### Kolonializem
 - Poceni surovine in delovna sila
@@ -332,11 +344,15 @@ Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja:
 - Občutek superiornosti
 - Ohranjanje ravnotežja sil
 
+### Imperializem
+- Država hoče kazat kako je boljša od druge
+- Hočejo med politično in gospodarsko prevlado nad drugo državo
+
 ### Balkanski sod smodnika
-1. Balkanska vojna 1992
-	- Srbija, Bolgarija, Grčija in Črna gora vs. Turčija
+1. Balkanska vojna 1912
+	- *Bolgarija + Srbija, Grčija in Črna gora vs. Turčija*
 2. Balkanska vojna 1913
-	- Romunija + Grčija + Srbija + Črna gora vs. Bolgarija
+	- *Romunija + Srbija + Grčija + Črna gora vs. Bolgarija*
 
 ## POVOD
 - Atentat srbskega mladeniča Gavrila Principa na avstrijskega prestolonaslednika Franca Ferdinanda v Sarajevu na Vidov dan 28.6.1914
@@ -345,14 +361,14 @@ Za začetek 1. SV je povezano dogajanje v Evropi v 2. polovici 19. stoletja:
 
 ## VSTOP DRŽAV V VOJNO
 
-| Antanta          | Centralne sile | Nevtralne |
-| ---------------- | -------------- | --------- |
-| Srbija           | Avstro Ogrska  | Švica     |
-| Rusija           | Nemčija        | Švedska   |
-| Francija         | 1915 Turčija   | Španija   |
-| Velika Britanija | 1915 Bulgarija |           |
-| 1915 Italija     |                |           |
-| 1917 ZDA         |                |           |
+| Antanta          | Centralne sile     | Nevtralne |
+| ---------------- | ------------------ | --------- |
+| Srbija           | Avstro Ogrska      | Švica     |
+| Rusija           | Nemčija            | Švedska   |
+| Francija         | 1915 Turčija       | Španija   |
+| Velika Britanija | 1915 Bulgarija     |           |
+| 1915 Italija     | Italija na začetku |           |
+| 1917 ZDA         |                    |           |
 
 # BOJIŠČA 1. SVETOVNE VOJNE
 ## BALKANSKO BOJIŠČE
@@ -391,8 +407,7 @@ Neprebojna linija rovov, bodeče žice, topniška in strojniška gnezd
 - Je najdaljša fronta 1. SV(premikali so se za več 100km)
 - Odprti način bojevanja
 
-- Bitka pri Tonnenbergu
-- Bitka pri Mazurnih jezerih
+- **Bitka pri Mazurnih jezerih**
 
 ## AVSTRIJSKO ITALIJANSKO BOJIŠČE
 - **Največji spopad** v *gorati pokrajini* v zgodovini
