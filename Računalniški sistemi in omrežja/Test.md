@@ -59,6 +59,8 @@ V Linux Shellu lahko delamo spremenljivke. Če jo želimo ustvariti napišemo v 
 - `ln` - ustvari link do datoteke
 - `grep` - filtrira izpis - npr.: `cat test.txt | grep "abc"` če hočemo izpisati samo vrstice ki vsebujejo niz abc v datoteki test.txt
 
+Podrobna dokumentacija ukazov je na tej spletni strani: linux.die.net/man/
+
 # OPERACIJSKI SISTEMI
 ## VRSTE
 - preprosti paketni - brez uporabnika, serijsko obdeluje neke podatke
