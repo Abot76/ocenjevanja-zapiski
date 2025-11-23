@@ -102,13 +102,16 @@ Z njimi upravlja OS.
 ### Deadlock
 ```mermaid
 flowchart TD
-	A{proces 1}
-	A --> |RABI| B[vir A]
-	A --> |IMA| C[vir B]
 	
+	A --> |RABI| B[vir A]
+	A{proces 1}
+	D --> |IMA| B[vir A]
+	
+
 	D{proces 2}
 	D --> |RABI| C[vir B]
-	D --> |IMA| B[vir A]
+	
+	A --> |IMA| C[vir B]
 ```
 - Doben se nebo končal ker čaka na drugega da sprosti vir
 - Vzroki:
