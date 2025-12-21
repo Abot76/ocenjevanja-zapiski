@@ -3,30 +3,44 @@
 ## VRSTE TRIGONOMETRIČNIH FUNKCIJ
 ### Sinus
 $\sin{x} = \alpha$
+
 $x = ?$, $\alpha \in [-1, 1]$
+
 $x_1 = \arcsin{\alpha} + 2k \pi$   $k \in \mathbb{Z}$
+
 $x_2 = (\pi - x_1) + 2k\pi$
+
 #### Posebni primeri
 1. $\sin{x} = 0$ -> $x = k*\pi$     $k \in \mathbb{Z}$
+
 2. $\sin{x} = 1$ -> $x_{max} = \frac{\pi}{2} + 2k*\pi$     $k \in \mathbb{Z}$
+
 3. $\sin{x} = -1$ -> $x_{min} = -\frac{\pi}{2} + 2k*\pi$     $k \in \mathbb{Z}$
+
 ### Cosinus
 $\cos{x} = \alpha$
+
 $x = ?$, $\alpha \in [-1, 1]$
+
 $x_1 = \arccos{b} + 2k\pi$   $k \in \mathbb{Z}$
+
 $x_2 = -x_1 + 2k\pi$
 #### Posebni primeri
 1. $\cos{x} = 0$ -> $x_0 = \frac{\pi}{2} + k\pi$   $k \in \mathbb{Z}$
-2. $\cos{x} = 1$ -> $x_{max} = 2k\pi$   $k \in \mathbb{Z}$    
-3. $\cos{x} = −1$ -> $x_{min} = \pi + 2k\pi$   $ki \in \mathbb{Z}$
+
+2. $\cos{x} = 1$ -> $x_{max} = 2k * \pi$   $k \in \mathbb{Z}$    
+
+3. $\cos{x} = −1$ -> $x_{min} = (2k - 1) * \pi$   $k \in \mathbb{Z}$
 
 ### Tangens
 $\tan{x} = c$
+
 $x = \arctan{c} + k\pi$   $k \in \mathbb{Z}$
 
 
 ### Cotangens
 $\cot{x} = d \rightarrow \tan{x} = \frac{1}{d}$
+
 $x = \arctan{\frac{1}{d}} + k\pi$   $k \in \mathbb{Z}$
 
 ## METODA POLOVIČNIH KOTOV
@@ -35,10 +49,15 @@ $x = \arctan{\frac{1}{d}} + k\pi$   $k \in \mathbb{Z}$
 ## HOMOGENE TRIGONOMETRIČNE ENAČBE 2. STOPNJE
 
 $a*\sin²{x} + b*\sin{x} * \cos{x} + c*\cos²{x} = 0$
+
 ->
+
 $\frac{a*\sin²{x}}{\cos²{x}} + \frac{b*\sin{x}}{\cos{x}} + c = 0$
+
 ->
+
 $a*\tan²{x} + b*\tan{x} + c = 0$
+
 # DEFINICIJE FUNKCIJ
 $\sin{\alpha} = \frac{nasprotna kateta}{hipotenuza} = \frac{a}{c}$
 
